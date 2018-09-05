@@ -33,7 +33,7 @@
 
 	"Can Not Use It"
 	{
-		"en"			"现在无法使用"
+		"en"			"现在无法使用 t"
 	}
 
 	"Used Item Note"
