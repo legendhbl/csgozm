@@ -1,0 +1,3957 @@
+"Phrases"
+{
+	"SPAWN NOTICE"
+	{
+		"en"			"{orchid}F{default} 键打开游戏选单"
+	}
+
+	"SPAWN NOTICE2"
+	{
+		"en"			"{orchid}200 级或以下可获 {darkblue}600 护甲及 7 弹药袋"
+	}
+
+	"Loading Db2"
+	{
+		"en"			"你的数据正在载入中，请耐心等候"
+	}
+
+	"Loaded Db2"
+	{
+		"en"			"你的数据已经载入完成"
+	}
+
+	"Loaded Db"
+	{
+		"en"			"数据库载入完成"
+	}
+
+	"Loading Db"
+	{
+		"#format"		"{1:i}, {2:i}"
+		"en"			"正在载入数据库 [{1}/{2}]"
+	}
+
+	"Can Not Use It"
+	{
+		"en"			"现在无法使用"
+	}
+
+	"Used Item Note"
+	{
+		"#format"		"{1:t}"
+		"en"			"{1}"
+	}
+
+	"Fire Skill Ready"
+	{
+		"en"			"<b><font color='#ff0000'><font size='25'>Reload 完成\n按 G 键使用技能</font></font></b>"
+	}
+
+	"Fire Skill Reload"
+	{
+		"#format"		"{1:i}"
+		"en"			"<b><font color='#ff0000'><font size='25'>Reload ： {1} / 999\n按 G 键使用技能</font></font></b>"
+	}
+
+	"Sub Boss 1"
+	{
+		"en"			"侦测到 Hide Boss"
+	}
+
+	"Sub Boss 2"
+	{
+		"en"			"侦测到 Walker Boss"
+	}
+	
+	"Sub Boss 3"
+	{
+		"en"			"侦测到 Psyh Boss"
+	}
+	
+	"Sub Boss 4"
+	{
+		"en"			"侦测到 Tesla Boss"
+	}
+
+	"Reward 1"
+	{
+		"#format"		"{1:i}, {2:i}, {3:i}"
+		"en"			"+ {1} Xp\n+ {2} 弹药袋\n+ {3} Wpn Xp"
+	}
+
+	"Reward 2"
+	{
+		"#format" 		"{1:i}, {2:i}"
+		"en"			"+ {1} Xp\n+ {2} 弹药袋"
+	}
+
+	"Nemesis Coming"
+	{
+		"chi"			"侦测到 Nemesis"
+		"en"			"Nemesis Detected"
+	}
+
+	"Nemesis Type2"
+	{
+		"chi"			"侦测到 Nemesis 突变"
+		"en"			"N-2 Detected"
+	}
+
+	"Gvirus Coming"
+	{
+		"chi"			"侦测到 G-Virus"
+		"en"			"G-Virus Detected"
+	}
+
+	"Gvirus Type2"
+	{
+		"chi"			"G-Virus 突变了!!"
+		"en"			"G-2 detected"
+	}
+
+	"Gvirus Type3"
+	{
+		"chi"			"G-2 突变了!!"
+		"en"			"G-3 detected"
+	}
+
+	"Nemesis Skill Note1"
+	{
+		"chi"			"Nemesis 已侦侧到你，请立即逃走"
+		"en"			"Detected By Nemesis !! Run !!"
+	}
+
+	"Gmonster Skill Note1"
+	{
+		"chi"			"Gmonster 已侦侧到你，请立即逃走"
+		"en"			"Detected By Gmonster !! Run !!"
+	}
+
+	"Zombie comming"
+	{
+		"#format"		"{1:d}"
+		"chi"			"病毒正在散播 {1} 秒后开始感染"
+		"en"			"Zombie comming: {1}"
+	}
+
+	"Help Message"
+	{
+		"zho"			"按 F 鍵打開遊戲菜單\n按 G 鍵使用人類/殭屍技能"
+		"chi"			"按 F 键打开游戏菜单\n按 G 键使用人类/僵尸技能"
+		"en"			"Press F to open the game menu\n Press G to use human / zombie skill"
+	}
+
+	"You can not buy it"
+	{
+		"chi"			"无法购买"
+		"en"			"You can't buy"
+	}
+
+	"Skill ready"
+	{
+		"en"			"Skill ready!"
+		"chi"			"技能冷却完成"
+	}
+
+	"Countdown"
+	{
+		"#format"		"{1:d}"
+		"en"			"技能冷却: {1}"
+		"chi"			"技能冷却: {1}"
+	}
+
+	"Multi mode"
+	{
+		"en"			"Multi round start!"
+	}
+
+	"Multi swarm"
+	{
+		"en"			"Swarm round start!"
+	}
+
+	"Mode nemesis"
+	{
+		"en"			"Nemesis round start!"
+		"chi"			"Nemesis 回合"
+	}
+
+	"Mode survivor"
+	{
+		"en"			"<b><font color='#00FF00'><font size='25'>Survivor round start!</font></font></b>"
+		"chi"			"<b><font color='#00FF00'><font size='25'>Survivor 回合</font></font></b>"
+	}
+
+	"Mode armageddon"
+	{
+		"en"			"Armageddon round start!"
+	}
+
+	"Mode infection"
+	{
+		"en"			"Normal infection!"
+		"chi"			"普通回合"
+	}
+
+	"Can not do it"
+	{
+		"en"			"You can't do this now"
+		"chi"			"现在不能这样做"
+	}
+
+	"Player didn't find"
+	{
+		"en"			"Player didn't find"
+		"chi"			"无法找到该玩家"
+	}
+
+	"HIDE BOSS SKILL 1"
+	{
+		"chi"			"G 键使用隐身"
+		"en"			"G 键使用隐身"
+	}
+
+	"RECOVERY BOSS SKILL 1"
+	{
+		"chi"			"G 键使用范围回血"
+		"en"			"G 键使用范围回血"
+	}
+	
+	"PSYH BOSS SKILL 1"
+	{
+		"chi"			"G 键使用尖叫"
+		"en"			"G 键使用尖叫"
+	}
+	
+	"TESLA BOSS SKILL 1"
+	{
+		"chi"			"G 键使用电击"
+		"en"			"G 键使用電擊"
+	}
+
+	"ZOMBIE SKILL 1"
+	{
+		"chi"			"G 键使用暴走"
+		"en"			"G 键使用暴走"
+	}
+	
+	"ZOMBIE SKILL 2"
+	{
+		"chi"			"G 键使用蝙蝠缠绕"
+		"en"			"G 键使用蝙蝠缠绕"
+	}
+	
+	"ZOMBIE SKILL 3"
+	{
+		"chi"			"G 键使用隐身"
+		"en"			"G 键使用隐身"
+	}
+	
+	"ZOMBIE SKILL 4"
+	{
+		"chi"			"G 键使用鬼手"
+		"en"			"G 键使用鬼手"
+	}
+
+	"RELOAD SKILL 1"
+	{
+		"chi"			"E 键发射火箭炮"
+		"en"			"E to Fire Rocket"
+	}
+
+	"RELOAD SKILL 2"
+	{
+		"chi"			"E 键发动疯狂"
+		"en"			"E to Rage"
+	}
+
+	"RELOAD SKILL 3"
+	{
+		"chi"			"F 键发动侦测之眼"
+		"en"			"F to Fire SCAN"
+	}
+
+	"RELOAD SKILL 4"
+	{
+		"chi"			"E 键制作病毒弹"
+		"en"			"E 键制作病毒弹"
+	}
+
+	"RELOAD SKILL 5"
+	{
+		"chi"			"F 键发动疯狂"
+		"en"			"F to Rage"
+	}
+
+	"RELOAD 1"
+	{
+		"#format"		"{1:d}"
+		"en"			"{1} / 30"
+	}
+
+	"RELOAD 2"
+	{
+		"#format"		"{1:d}"
+		"en"			"{1} / 30"
+	}
+
+	"Level_Status_Nowpn_Dead_T"
+	{
+		"#format" 		"{1:d}, {2:d}, {3:d}, {4:2.1f}, {5:d}, {6:s}"
+		"en"			"血量: {1} | 弹药袋: {2}\n等级: {3} | 进度: {4} | Combo: {5}\n{6}"
+		"chi"			"血量: {1} | 弹药袋: {2}\n等级: {3} | 进度: {4} | Combo: {5}\n{6}"
+	}
+
+	"Level_Status_Nowpn_Dead_CT"
+	{
+		"#format" 		"{1:d}, {2:d}, {3:d}, {4:2.1f}, {5:d}, {6:s}"
+		"en"			"护甲: {1} | 弹药袋: {2}\n等级: {3} | 进度: {4} | Combo: {5}\n{6}"
+		"chi"			"护甲: {1} | 弹药袋: {2}\n等级: {3} | 进度: {4} | Combo: {5}\n{6}"
+	}
+
+	"Level_Status_Nowpn_T"
+	{
+		"#format" 		"{1:d}, {2:s}, {3:d}, {4:d}, {5:2.1f}, {6:d}, {7:s}"
+		"en"			"血量: {1} | 类型: {2} | 弹药袋: {3}\n等级: {4} | 进度: {5} | Combo: {6}\n{7}"
+		"chi"			"血量: {1} | 类型: {2} | 弹药袋: {3}\n等级: {4} | 进度: {5} | Combo: {6}\n{7}"
+	}
+
+	"Level_Status_Nowpn_CT"
+	{
+		"#format" 		"{1:d}, {2:s}, {3:d}, {4:d}, {5:2.1f}, {6:d}, {7:s}"
+		"en"			"护甲: {1} | 类型: {2} | 弹药袋: {3}\n等级: {4} | 进度: {5} | Combo: {6}\n{7}"
+		"chi"			"护甲: {1} | 类型: {2} | 弹药袋: {3}\n等级: {4} | 进度: {5} | Combo: {6}\n{7}"
+	}
+
+	"Level_Status_Hvwpn"
+	{
+		"#format" 		"{1:d}, {2:s}, {3:d}, {4:d}, {5:2.1f}, {6:d}, {7:s}, {8:d}, {9:2.1f}, {10:s}"
+		"en"			"护甲: {1} | 类型: {2} | 弹药袋: {3}\n等级: {4} | 进度: {5} | Combo: {6}\n{7} 等级: {8} | 进度: {9}\n{10}"
+		"chi"			"护甲: {1} | 类型: {2} | 弹药袋: {3}\n等级: {4} | 进度: {5} | Combo: {6}\n{7} 等级: {8} | 进度: {9}\n{10}"
+	}
+
+	// ==============================================================
+	//
+	// 				PrintToChat
+	//
+	// ==============================================================
+
+	"Fire Skill Note1"
+	{
+		"en"			"Fire Boss 使用 {orchid}流星爆击{default} 攻击。"
+	}
+
+	"Fire Skill Note2"
+	{
+		"en"			"Fire Boss 使用 {orchid}炼狱之火{default} 攻击。"
+	}
+
+	"Fire Skill Note3"
+	{
+		"en"			"Fire Boss 使用 {orchid}血液蒸发{default} 攻击。"
+	}
+
+	"Fire Skill Note4"
+	{
+		"en"			"Fire Boss 使用 {orchid}黑洞爆发{default} 攻击。"
+	}
+
+	"Human Combo"
+	{
+		"#format"		"{1:i}, {2:i}"
+		"en"			"您总共击杀了 {darkred}{1}{default} 只丧尸，获得 {darkred}{2}{default} 的 Xp。"
+	}
+
+	"Zombie Combo"
+	{
+		"#format"		"{1:i}, {2:i}"
+		"en"			"您总共击杀了 {darkred}{1}{default} 只人类，获得 {darkred}{2}{default} 的 Xp。"
+	}
+	"Become Leader"
+	{
+		"#format"		"{1:s}"
+		"chi"			"{darkred}{1}{default} 成为了这回合的队长"
+		"en"			"{darkred}{1}{default} become the leader "
+	}
+	"Leader Down"
+	{
+		"chi"			"由于队长不见了. 时间完结时判定为僵尸获胜"
+		"en"			"As leader gone, system will terminate zombie win at the roundend "
+	}
+
+	"Boss Clear"
+	{
+		"en"			"主王已被消灭，僵尸不会再重生。"
+	}
+
+	"Nemesis Skill Note4"
+	{
+		"en"			"Nemesis 使用 {orchid}火箭炮{default} 攻击。"
+	}
+
+	"Nemesis Skill Note3"
+	{
+		"en"			"Nemesis 使用技能 {orchid}疯狂{default}，能力值有所上升。"
+	}
+	"Gmonster Skill Note3"
+	{
+		"en"			"Gmonster 使用技能 {orchid}疯狂{default}，能力值有所上升。"
+	}
+
+	"Nemesis Skill Note2"
+	{
+		"en"			"Nemesis 使用技能 {orchid}侦测之眼{default}，附近的人位置已暴露。"
+	}
+	"Gmonster Skill Note2"
+	{
+		"en"			"Gmonster 使用技能 {orchid}侦测之眼{default}，附近的人位置已暴露。"
+	}
+
+	"Timer Action"
+	{
+		"en"			"今天成功签到，持续签到会得到奖励。"
+	}
+
+	"Timer Action2"
+	{
+		"en"			"每天只能签到 {darkred}1{default} 次。"
+	}
+
+	"Zombie info"
+	{
+		"#format"		"{1:s},{2:d},{3:s},{4:s}"
+		"en"			"Zombie: {darkred}[{1}] {default}HP: {darkred}[{2}] {default}Speed: {darkred}[{3}] {default}Gravity: {darkred}[{4}]"
+		"chi"			"僵尸: {darkred}[{1}] {default}血量: {darkred}[{2}] {default}速度: {darkred}[{3}] {default}重力: {darkred}[{4}]"
+	}
+
+	"Buy extraitem"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Player: {darkred}[{1}] {default}buy: {darkred}[{2}]"
+		"chi"			"玩家: {darkred}[{1}] {default}购买: {darkred}[{2}]"
+	}
+
+	"Admin started armageddon"
+	{
+		"#format"		"{1:s}"
+		"en"			"Admin: {darkred}[{1}] {default}started armageddon"
+	}
+
+	"Admin started multi mode"
+	{
+		"#format"		"{1:s}"
+		"en"			"Admin: {darkred}[{1}] {default}started multi mode"
+	}
+
+	"Admin started swarm mode"
+	{
+		"#format"		"{1:s}"
+		"en"			"Admin: {darkred}[{1}] {default}started swarm mode"
+	}
+
+	"Admin give antidot"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Admin: {darkred}[{1}] {default}give antidot to: {darkred}[{2}]"
+		"chi"			"Admin: {darkred}[{1}] {default}给予解药: {darkred}[{2}]"
+	}
+
+	"Admin infect player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Admin: {darkred}[{1}] {default}infect: {darkred}[{2}]"
+		"chi"			"Admin: {darkred}[{1}] {default}感染: {darkred}[{2}]"
+	}
+
+	"Admin respawned player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Admin: {darkred}[{1}] {default}respawned: {darkred}[{2}]"
+		"chi"			"Admin: {darkred}[{1}] {default}重生: {darkred}[{2}]"
+	}
+
+	"Admin give a nemesis to player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Admin: {darkred}[{1}] {default}give nemesis for: {darkred}[{2}]"
+		"chi"			"Admin: {darkred}[{1}] {default}给予Nemesis: {darkred}[{2}]"
+	}
+
+	"Admin give a survivor to player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Admin: {darkred}[{1}] {default}give survivor for: {darkred}[{2}]"
+		"chi"			"Admin: {darkred}[{1}] {default}给予Survivor: {darkred}[{2}]"
+	}
+
+	"Admin give 100 ammopacks to player"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Admin: {darkred}[{1}]{default} give 100 弹药袋 to: {darkred}[{2}]"
+		"chi"			"Admin: {darkred}[{1}]{default} 给予 100 弹药袋: {darkred}[{2}]"
+	}
+
+	"Random Mission"
+	{
+		"en"			"突发！随机任务出现了！"
+	}
+
+	"New Day"
+	{
+		"en"			"新的一天，祝大家更美好。"
+	}
+
+	"Mission Fail"
+	{
+		"#format"		"{1:t}"
+		"en"			"任务 {darkred}{1}{default} 未能及时完成，任务已被取消"
+	}
+
+	"Vip Expires"
+	{
+		"en"			"您的 {darkred}VIP{default} 使用期限已完结，感谢您的赞助及支持。"
+	}
+
+	"Model Expires"
+	{
+		"#format" "{1:t}"
+		"en"			"你的人物 {darkred}{1}{default} 使用期限已完结。"
+	}
+
+	"Weapon Expires"
+	{
+		"#format"	"{1:t}"
+		"en"			"你的枪械 {darkred}{1}{default} 使用期限已完结。"
+	}
+	"PLAYER LEVEL UP"
+	{
+		"#format"	"{1:d}, {2:d}"
+		"chi"		"LEVEL UP，你的等级由{darkred}{1}{default} 提升到{darkred} {2}。"
+		"en"		"LEVEL UP，Level Promoted from {darkred}{1}{default} to {darkred} {2}。"
+	}
+
+	"GUN LEVEL UP"
+	{
+		"#format"	"{1:s}, {2:d}, {3:d}"
+		"chi"		"LEVEL UP，你的 {darkred}{1}{default} 由{darkred}{2}{default} 提升到{darkred} {3}。"
+		"en"		"LEVEL UP，{darkred}{1}{default} Level Promoted from {darkred}{2}{default} to {darkred} {3}。"
+	}
+
+	"Out of SP"
+	{
+		"en"			"You are running out of {darkred}SP。"
+		"zh"			"你的 {darkred}弹药袋 {default}不足。"
+	}
+	"Out of G"
+	{
+		"en"			"You are running out of {darkred}Gash。"
+		"zh"			"你的 {darkred}Gash {default}不足。"
+	}
+	"Equip Item"
+	{
+		"en"			"You have equipped the item。"
+		"zh"			"你己装备了这个物品。"
+	}
+	"Equip Item Name"
+	{
+		"#format"		"{1:t}"
+		"en"			"You have equipped {darkred}{1}。"
+		"zh"			"你己装备了 {darkred}{1}。"
+	}
+	"No Item Name"
+	{
+		"#format"		"{1:t}"
+		"en"			"You do not have {darkred}{1}。"
+		"zh"			"你并未持有 {darkred}{1}。"
+	}
+
+
+	// ======================
+	//
+	//	Mission
+	//
+	//=======================
+
+	"Mission Menu1"
+	{
+		"en"			"无法进行，此任务是 {darkred}VIP{default} 专属。"
+	}
+
+	"Mission Menu2"
+	{
+		"en"			"你的等级尚未达到任务要求。"
+	}
+
+	"Mission Menu3"
+	{
+		"en"			"此任务你正在进行中。"
+	}
+
+	"Mission Menu4"
+	{
+		"en"			"可接任务已满，最多只能接 {darkred}5{default} 个任务。"
+	}
+
+	"Mission Menu5"
+	{
+		"#format"		"{1:t}"
+		"en"			"任务 {orchid}{1}{default} 开始进行。"
+	}
+
+	"Mission Menu6"
+	{
+		"en"			"目前没有适合你的任务，约每 5-20 等级 1 个任务"
+	}
+
+	"Mission Menu7"
+	{
+		"en"			"你没有进行这任务"
+	}
+
+	"Mission Menu8"
+	{
+		"en"			"你还没有完成任务的要求"
+	}
+
+	"Mission Menu9"
+	{
+		"en"			"任务系统出现错误，请重新进入伺服器"
+	}
+
+	"Mission Data Menu9"
+	{
+		"en"			"你所选的任务已被放弃"
+	}
+
+	"Mission Complete"
+	{
+		"#format"		"{1:s}, {2:t}"
+		"en"			"玩家 {darkred}{1}{default} 已完成任务 {orchid}{2}{default}"
+	}
+
+	"Mission Complete2"
+	{
+		"#format"		"{1:i}, {2:i}"
+		"en"			"你获得了 {darkred}{1}{default} Xp 和 {darkred}{2}{default} 弹药袋"
+	}
+
+	// ======================
+	//
+	//	Bag
+	//
+	//=======================
+
+	"Bag Menu1"
+	{
+		"en"			"你不能选择空位。"
+	}
+
+	// ======================
+	//
+	//	Item
+	//
+	//=======================
+	
+	"ITEM_USED_MAX"
+	{
+		"en"			"每次重生只能使用 3 次物品"
+	}
+
+	"ITEM_CANT_USE"
+	{
+		"en"			"You Can't Use this"
+		"chi"			"此物品不能使用"
+	}
+
+	"ITEM_ZOMBIE_CANT_USE"
+	{
+		"en"			"Zombie Can't Use this"
+		"chi"			"僵尸不能使用此物品"
+	}
+
+	"ITEM_HUMAN_CANT_USE"
+	{
+		"en"			"Human Can't Use this"
+		"chi"			"人类不能使用此物品"
+	}
+
+	"ITEM_MUST_ALIVE"
+	{
+		"en"			"You must be alived to use this"
+		"chi"			"只有活着才能使用"
+	}
+
+	"ITEM_USED"
+	{
+		"#format"		"{1:s}, {2:t}"
+		"en"			"Player {darkred}{1}{default} Used {orchid}{2}{default} From His Bag"
+		"chi"			"玩家 {darkred}{1}{default} 在背包内使用了 {orchid}{2}"
+	}
+
+	"ITEM_DROP"
+	{
+		"#format"		"{1:t}"
+		"en"			"You have dropped the {orchid}{1}"
+		"chi"			"你已扔弃了 {orchid}{1}"
+	}
+
+	"ITEM_ACCQURED"
+	{
+		"#format"		"{1:t}, {2:i}"
+		"en"			"You have acquired item {orchid}{1} x {2}"
+		"chi"			"你获得了物品 {orchid}{1} x {2}"
+	}
+
+	"ITEM_ACQUIRED_FAIL"
+	{
+		"#format"		"{1:t}, {2:i}, {3:i}"
+		"en"			"Although you have acquired item {1} x {2}, {3} is missing with out of space"
+		"chi"			"你获得了物品 {orchid}{1} x {2}{default}, 可是 {orchid}x {3}{default} 已经没有位置可存放"
+	}
+
+	"ITEM_ACQUIRED_FAIL2"
+	{
+		"#format"		"{1:t}, {2:i}"
+		"en"			"Bag is running out of space! {1} x {2} lost"
+		"chi"			"你的背包已经装不下了！ {orchid}{1} x {2}{default} 被扔弃"
+	}
+
+	// ======================
+	//
+	//	Combine
+	//
+	//=======================
+
+	"Combine_Full"
+	{
+		"#format"		"{1:i}"
+		"chi"			"不能再新增物品，最多只能放置 {darkred}{1}{lime} 个物品"
+		"en"			"Out of space"
+	}
+
+	"Combine_PutItem"
+	{
+		"chi"			"目前没有任何物品，请放置物品才可进行合成"
+		"en"			"Please deploy your item"
+	}
+
+	"Combine_Remove"
+	{
+		"chi"			"你所选的物品已移除并放回背包内"
+		"en"			"Removed"
+	}
+
+	"Combine Menu1"
+	{
+		"#format"		"{1:i}"
+		"en"			"合成成功！你获得了 {darkred}{1}{lime} 级别的物品"
+	}
+
+	"Combine Menu2"
+	{
+		"en"			"合成失败！物品都变成废料了。"
+	}
+
+	// ==============================================================
+	//
+	// 				Menu
+	//
+	// ==============================================================
+
+	"Menu Main1"
+	{
+		"en"			"这枪械你已选择了。"
+	}
+
+	"Menu Main2"
+	{
+		"en"			"你没有购买这枪械。"
+	}
+
+	"Menu Timer"
+	{
+		"en"			"签到系统"
+	}
+
+	"Menu Timer1"
+	{
+		"en"			"我要签到"
+	}
+
+	"Menu Timer2"
+	{
+		"en"			"领取奖励 (请先检查背包是否有足够的位置)"
+	}
+
+	"SP"
+	{
+		"#format"		"{1:d}"
+		"en"			"{1} 弹药袋"
+		"chi"			"{1} 弹药袋"
+	}
+
+	"Buy extraitems"
+	{
+		"chi"			"道具"
+		"en"			"Extra Items"
+	}
+
+	"Choose zombieclass"
+	{
+		"chi"			"僵尸类型"
+		"en"			"Zombie classes"
+	}
+
+	"Unstuck"
+	{
+		"chi"			"解除卡住"
+		"en"			"Stuck ?"
+	}
+
+	"Admin menu"
+	{
+		"chi"			"ZM选单"
+		"en"			"ZM menu"
+	}
+
+	"Buy extraitems"
+	{
+		"chi"			"道具"
+		"en"			"Buy Extra Items"
+	}
+
+	"Choose zombieclass"
+	{
+		"chi"			"僵尸类型"
+		"en"			"Zombie classes"
+	}
+
+	"Unstuck"
+	{
+		"chi"			"解除卡住"
+		"en"			"Stuck ?"
+	}
+
+	"Admin menu"
+	{
+		"chi"			"管理员选单"
+		"en"			"Admin menu"
+	}
+
+	"Free Pistol"
+	{
+		"chi"			"手枪"
+		"en"			"Pistols"
+	}
+
+	"Make human"
+	{
+		"en"			"Make a human"
+		"chi"			"将玩家改为人类"
+	}
+
+	"Make zombie"
+	{
+		"en"			"Make a zombie"
+		"chi"			"将玩家改为僵尸"
+	}
+
+	"Make nemesis"
+	{
+		"en"			"Make a nemesis"
+		"chi"			"将玩家改为Nemesis"
+	}
+
+	"Make survivor"
+	{
+		"en"			"Make a survivor"
+		"chi"			"将玩家改为Survivor"
+	}
+
+	"Respawn"
+	{
+		"en"			"Respawn players"
+		"chi"			"复活玩家"
+	}
+
+	"Give ammopacks"
+	{
+		"en"			"Give 弹药袋"
+		"chi"			"给予 弹药袋"
+	}
+
+	"Start armageddon"
+	{
+		"en"			"Start armageddon"
+	}
+
+	"Start multi mode"
+	{
+		"en"			"Start multi infection"
+	}
+
+	"Start swarm mode"
+	{
+		"en"			"Start swarm mode"
+	}
+
+	// ======================
+	//
+	//	Game Menu
+	//
+	//=======================
+
+	"Note_MENU"
+	{
+		"chi"			"玩家福利"
+		"en"			"Notification"
+	}
+	"Note_Customize"
+	{
+		"chi"			"游戏设置"
+		"en"			"Customization"
+	}	
+	"NOTE_OFF_MUSIC"
+	{
+		"chi"			"关闭音乐"
+		"en"			"Music On/Off"
+	}
+	"NOTE_OFF_GUNSOUND"
+	{
+		"chi"			"关闭枪声"
+		"en"			"FireSound On/Off"
+	}
+	"NOTE_OFF_PLAYER"
+	{
+		"chi"			"隐藏玩家"
+		"en"			"HidePlayer On/Off"
+	}
+	"NOTE_NIGHTVISION"
+	{
+		"chi"			"夜视镜"
+		"en"			"NightVision On/Off"
+	}
+	"NOTE_THIRD"
+	{
+		"chi"			"第三人称"
+		"en"			"3rd persion view"
+	}
+	"NOTE_NOTICE"
+	{
+		"chi"			"关闭提示"
+		"en"			"Notice On/Off"
+	}
+	"NOTE_ENTHUD"
+	{
+		"en"			"Ze EntHud"
+	}
+	"MENU_GROUPG"
+	{
+		"chi"			"加群奖励"
+		"en"			"Gift[SteamGroup]"
+	}
+	
+	"MENU_GROUPG_NORMAL_P"
+	{
+		"chi"			"人物奖励"
+		"en"			"Player Model"
+	}
+	
+	"MMenu_Select"
+	{
+		"chi"			"选择菜单"
+		"en"			"Selection"
+	}
+
+	"MMenu_Shop"
+	{
+		"chi"			"商店"
+		"en"			"Shop"
+	}
+
+	"SMENU_BMODEL"
+	{
+		"chi"			"人物"
+		"en"			"Model"
+	}
+
+	"SMENU_Confrim"
+	{
+		"chi"			"确认购买"
+		"en"			"Buy it !"
+	}
+	"Model Confim"
+	{
+		"chi"			"人物确认"
+		"en"			"Model Confrimation!"
+	}
+	"Customize Confrim"
+	{
+		"chi"			"枪械确认"
+		"en"			"Weapon Confrimation!"
+	}
+	"Customize Confrim SP"
+	{
+		"en"			"Weapon Confrimation[弹药袋]"
+		"chi"			"枪械确认[弹药袋购买]"
+	}
+	"CONFRIM_BUY_GUN"
+	{
+		"#format"		"{1:t}"
+		"chi"			"枪械 [{1}]"
+		"en"			"Weapon [{1}]"
+	}
+	"CONFRIM_BUY_VIP_GUN"
+	{
+		"#format"		"{1:t}, {2:s}"
+		"en"			"VIP Weapon [{1}] {2}"
+		"chi"			"VIP 枪械 [{1}] {2}"
+	}
+
+	"CONFRIM_BUY_VIP_MODEL"
+	{
+		"#format"		"{1:t}, {2:s}"
+		"en"			"VIP Model [{1}] {2}"
+		"chi"			"VIP 人物 [{1}] {2}"
+	}
+	"CONFRIM_BUY_MODEL"
+	{
+		"#format"		"{1:t}, {2:s}"
+		"chi"			"人物 [{1}] {2}"
+		"en"			"Weapon [{1}] {2}"
+	}
+
+	"MODEL_EFFECT"
+	{
+		"en"			"Effect : None"
+		"chi"			"效果 : 没有"
+	}
+
+	"VIP_MODEL_EFFECT"
+	{
+		"en"			"Effect : XP + 10%"
+		"chi"			"效果 : 经验加成 10%"
+		"zho"			"效果 : 經驗加成 10%"
+	}
+	
+	"VIP_MODEL_EFFECT2"
+	{
+		"en"			"Effect : XP + 20%"
+		"chi"			"效果 : 经验加成 20%"
+		"zho"			"效果 : 經驗加成 20%"
+	}
+	
+	"VIP_MODEL_EFFECT3"
+	{
+		"en"			"Effect : XP + 30%"
+		"chi"			"效果 : 经验加成 30%"
+		"zho"			"效果 : 經驗加成 30%"
+	}
+	
+	"VIP_MODEL_EFFECT4"
+	{
+		"en"			"Effect : XP + 40%"
+		"chi"			"效果 : 经验加成 40%"
+		"zho"			"效果 : 經驗加成 40%"
+	}
+	
+	"VIP_MODEL_EFFECT5"
+	{
+		"en"			"Effect : XP + 80%"
+		"chi"			"效果 : 经验加成 80%"
+		"zho"			"效果 : 經驗加成 80%"
+	}
+
+	"CONFRIM_BUY_Switch_SP"
+	{
+		"#format"		"{1:d}"
+		"en"			"弹药袋 : {1}"
+	}
+
+	"CONFRIM_BUY_Switch_Gash"
+	{
+		"#format"		"{1:d}"
+		"en"			"Gash : {1}"
+	}
+
+	"1 MONTH"
+	{
+		"en"			"[1 Month]"
+		"chi"			"[一个月]"
+	}
+
+	"1 YEAR"
+	{
+		"en"			"[1 Year]"
+		"chi"			"[一年]"
+	}
+
+	"EVER"
+	{
+		"en"			"[Ever]"
+		"chi"			"[永久]"
+	}
+
+	"MMenu_Miss"
+	{
+		"chi"			"任务"
+		"en"			"Mission"
+	}
+
+	"MMenu_Miss_Lv"
+	{
+		"chi"			"任务列表"
+		"en"			"Mission List"
+	}
+
+	"MMenu_Miss_Progress"
+	{
+		"chi"			"任务进度"
+		"en"			"Mission Progress"
+	}
+
+	"SMENU_FREE"
+	{
+		"chi"			"主武器"
+		"en"			"Free Weapon"
+	}
+
+	"SMENU_SKIN"
+	{
+		"zho"			"槍械皮膚"
+		"chi"			"枪械皮肤"
+		"en"			"Weapon Mod"
+	}
+	
+	"SMENU_VIP"
+	{
+		"en"			"Vip Weapon"
+		"chi"			"VIP枪 [400等级]"
+	}
+
+	"SMENU_MODEL"
+	{
+		"chi"			"人物选择"
+		"en"			"Model Selection"
+	}
+
+	"SMENU_EVER_SP"
+	{
+		"en"			"Round Weapon"
+		"chi"			"回合枪"
+	}
+
+	"AUTO_MENU"
+	{
+		"chi"			"自动选择"
+		"en"			"Auto Choose"
+	}
+	"MainWeapon"
+	{
+		"chi"			"主枪械"
+		"en"			"Primary Weapon"
+	}
+
+	"AUTO_BUY1"
+	{
+		"#format"		"{1:s}"
+		"chi"			"主枪械 {1}"
+		"en"			"Primary Weapon"
+	}
+
+	"AUTO_BUY1e"
+	{
+		"#format"		"{1:t}"
+		"chi"			"主枪械 {1}"
+		"en"			"Primary Weapon"
+	}
+
+	"AUTO_BUY2"
+	{
+		"#format"		"{1:s}"
+		"chi"			"次枪械 {1}"
+		"en"			"Secondary Weapon"
+	}
+
+	"AUTO_BUY3"
+	{
+		"#format"		"{1:t}"
+		"chi"			"人物 {1}"
+		"en"			"Model {1}"
+	}
+
+	"AUTO_BUY4"
+	{
+		"#format"		"{1:t}"
+		"chi"			"手臂 {1} "
+		"en"			"Arms {1}"
+	}
+	"Reset Data"
+	{
+		"en"			"Reset"
+	}
+
+	"MODEL1"
+	{
+		"en"			"没有"
+	}
+
+	"MODEL2"
+	{
+		"en"			"香蕉人"
+	}
+
+	"MODEL3"
+	{
+		"en"			"九尾"
+	}
+
+	"MODEL4"
+	{
+		"en"			"妮普缇努[紫色之心]"
+	}
+
+	"MODEL5"
+	{
+		"en"			"ROM"
+	}
+
+	"MODEL6"
+	{
+		"en"			"贝儿"
+	}
+
+	"MODEL7"
+	{
+		"en"			"诺娃"
+	}
+
+	"MODEL8"
+	{
+		"en"			"拉斯丝LOL"
+	}
+	
+	"MODEL9"
+	{
+		"en"			"OW闪光"
+	}
+	
+	"MODEL10"
+	{
+		"en"			"一拳超人"
+	}
+	
+	"MODEL11"
+	{
+		"en"			"弱音婚纱"
+	}
+
+	"MODEL12"
+	{
+		"en"			"黑武士"
+	}
+	
+	"MODEL13"
+	{
+		"en"			"帝国冲锋队"
+	}
+	
+	"MODEL14"
+	{
+		"en"			"蕾米莉亚"
+	}
+	
+	"MODEL15"
+	{
+		"en"			"金丝雀"
+	}
+	
+	"MODEL16"
+	{
+		"en"			"桐人"
+	}
+	
+	"MODEL17"
+	{
+		"en"			"史莱克"
+	}
+	
+	"MODEL18"
+	{
+		"en"			"终结者"
+	}
+	
+	"MODEL19"
+	{
+		"en"			"滑稽"
+	}
+	
+	"MODEL20"
+	{
+		"en"			"Noirens"
+	}
+	
+	"MODEL21"
+	{
+		"en"			"北方姬"
+	}
+	
+	"MODEL22"
+	{
+		"en"			"光辉"
+	}
+	
+	"MODEL23"
+	{
+		"en"			"黑丝弱音"
+	}
+	
+	"MODEL24"
+	{
+		"en"			"五河琴里"
+	}
+	
+	"MenuOther"
+	{
+		"chi"			"其他"
+		"en"			"Others"
+	}
+
+	"MenuStatus"
+	{
+		"chi"			"个人资料"
+		"en"			"Status"
+	}
+
+	"MenuWeaponQuery"
+	{
+		"chi"			"武器资料"
+		"en"			"WeaponLvl Query"
+	}
+
+	"BuffQuery"
+	{
+		"chi"			"加成效果"
+		"en"			"Buff Query"
+	}
+
+	// ======================
+	//
+	//	BQ
+	//
+	//=======================
+
+	"BQ_HAVE_ATK"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"攻击加成:  剩下 {1} 分钟\n效果: 攻加增加1.2倍"
+		"en"			"Attack Buff: {1} Minute Left\nEffect: +20% ATK"
+	}
+
+	"BQ_NO_ATK"
+	{
+		"chi"			"攻击加成: 没有"
+		"en"			"Attack Buff: None"
+	}
+
+	"BQ_HAVE_SPEED"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"速度加成:  剩下 {1} 分钟\n效果: 速度增加10％"
+		"en"			"Speed Buff: {1} Minute Left\nEffect: +10% Speed"
+	}
+
+	"BQ_NO_SPEED"
+	{
+		"chi"			"速度加成: 没有"
+		"en"			"Speed Buff: None"
+	}
+
+	"BQ_HAVE_XP"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"经验加成:  剩下 {1} 分钟\n效果: 获得经验值*2"
+		"en"			"XP Buff: {1} Minute Left\nEffect: Double Xp"
+	}
+
+	"BQ_NO_XP"
+	{
+		"chi"			"经验加成: 没有"
+		"en"			"XP Buff: None"
+	}
+
+	"BQ_HAVE_SP"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"点数加成:  剩下 {1} 分钟\n效果: 获得点数*2"
+		"en"			"点数 Buff: {1} Minute Left\nEffect: Double 点数"
+	}
+
+	"BQ_NO_SP"
+	{
+		"chi"			"点数加成: 没有"
+		"en"			"点数 Buff: None"
+	}
+
+	"BQ_HAVE_GUNXP"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"枪经加成:  剩下 {1} 分钟\n效果: 枪经获得量*2"
+		"en"			"GunXp Buff: {1} Minute Left\nEffect: Double Gunxp"
+	}
+
+	"BQ_NO_GUNXP"
+	{
+		"chi"			"枪经加成: 没有"
+		"en"			"GunXp Buff: None"
+	}
+	
+	"BQ_HAVE_HE"
+	{
+		"#format"		"{1:i}, {2:i}"
+		"en"			"烈焰手雷: 剩下 {1} 天 {2} 小時\n效果: 免费使用烈焰手雷"
+	}
+
+	"BQ_NO_HE"
+	{
+		"en"			"烈焰手雷: 没有"
+	}
+	
+	"BQ_HAVE_HE2"
+	{
+		"#format"		"{1:i}, {2:i}"
+		"en"			"爆炎手雷: 剩下 {1} 天 {2} 小時\n效果: 免费使用爆炎手雷"
+	}
+
+	"BQ_NO_HE2"
+	{
+		"en"			"爆炎手雷: 没有"
+	}
+
+	// ======================
+	//
+	//	Status
+	//
+	//=======================
+
+	"MenuStatus_YOURID"
+	{
+		"#format"		"{1:i}"
+		"chi"			"你的ID：{1}"
+		"en"			"YourID : {1}"
+	}
+
+	"MenuStatus_YOURSTEAM"
+	{
+		"#format"		"{1:s}"
+		"chi"			"你的STEAM ID：{1}"
+		"en"			"Your SteamID : {1}"
+	}
+
+	"MenuStatus_Level"
+	{
+		"#format"		"{1:i},{2:2.3f}"
+		"chi"			"你的等级：{1} | 经验值：{2}%"
+		"en"			"Level: {1} | Exp: {2}%"
+	}
+
+	"MenuStatus_Sp"
+	{
+		"#format"		"{1:i}"
+		"chi"			"你的弹药袋：{1}"
+		"en"			"弹药袋 : {1}"
+	}
+
+	"MenuStatus_Gash"
+	{
+		"#format"		"{1:i}"
+		"chi"			"你的Gash：{1}"
+		"en"			"Gash : {1}"
+	}
+
+	"MenuStatus_Authority"
+	{
+		"#format"		"{1:i}, {2:i}"
+		"en"			"你的VIP：剩下 {1} 天 {2} 小時"
+	}
+
+	"MenuStatus_Warning"
+	{
+		"#format"		"{1:i}"
+		"chi"			"警告次数：{1}"
+		"en"			"Warning : {1}"
+	}
+
+	"MenuStatus_Account"
+	{
+		"#format"		"{1:s}"
+		"chi"			"帐号状态：{1}"
+		"en"			"Account : {1}"
+	}
+
+	"MenuStatus_PreviousOnline"
+	{
+		"#format"		"{1:s}"
+		"chi"			"上一次的上线时间：{1}"
+		"en"			"Previous Online : {1}"
+	}
+
+	"MenuStatus_datejoin"
+	{
+		"#format"		"{1:s}"
+		"chi"			"加入日期：{1}"
+		"en"			"Date Joined : {1}"
+	}
+
+	"MenuStatus_sponsor"
+	{
+		"#format"		"{1:i}"
+		"chi"			"赞助次数：{1}"
+		"en"			"Sponsor : {1}"
+	}
+
+	"MenuStatus_sponsoramount"
+	{
+		"#format"		"{1:i}"
+		"chi"			"总计金额：{1}"
+		"en"			"Total Amount : {1}"
+	}
+
+	"MenuStatus_totalonline"
+	{
+		"#format"		"{1:i}"
+		"chi"			"在线时间：{1}"
+		"en"			"Time Played : {1}"
+	}
+
+	"WeaponQuery_Weapon"
+	{
+		"#format"		"{1:s},{2:i},{3:2.3f}"
+		"chi"			"{1} 等级：{2} | 经验值：{3}%"
+		"en"			"{1} Level: {2} | Exp: {3}%"
+	}
+
+	"Model"
+	{
+		"chi"			"人物"
+		"en"			"Model"
+	}
+
+	"ModelQuery"
+	{
+		"chi"			"持有人物"
+		"en"			"ModelQuery"
+	}
+
+	"ModelQuery_OwnModel"
+	{
+		"#format"		"{1:t},{2:i}"
+		"chi"			"{1} 剩下 {2} 天"
+		"en"			"{1} Timeleft {2} Days"
+	}
+
+	"ModelQuery_NoModel"
+	{
+		"#format"		"{1:t}"
+		"chi"			"{1} [尚未购买]"
+		"en"			"{1} [Models to be bought]"
+	}
+
+	"GunQuery"
+	{
+		"chi"			"持有枪械皮肤"
+		"en"			"WeaponQuery"
+	}
+
+	"GunQuery_OwnGun"
+	{
+		"#format"		"{1:t},{2:i}"
+		"chi"			"{1} 剩下 {2} 天"
+		"en"			"{1} Timeleft {2} Days"
+	}
+
+	"GunQuery_NoGun"
+	{
+		"#format"		"{1:t}"
+		"chi"			"{1} [尚未购买]"
+		"en"			"{1} [Guns to be bought]"
+	}
+
+	"MenuFSkill"
+	{
+		"chi"			"技能列表"
+		"en"			"Skill Menu"
+	}
+
+	"Fskill_Skill1"
+	{
+		"#format"		"{1:d}"
+		"chi"			"[范围] 流星爆击 {1} Reload"
+		"en"			"[Area] Explosion {1} Reload"
+	}
+
+	"Fskill_Skill2"
+	{
+		"#format"		"{1:d}"
+		"chi"			"[范围] 炼狱之火 {1} Reload"
+		"en"			"[Area] Blaze"
+	}
+
+	"Fskill_Skill3"
+	{
+		"#format"		"{1:d}"
+		"chi"			"[自身] 血液蒸发 {1} Reload"
+		"en"			"[Trip] Flame Strike {1} Reload"
+	}
+
+	"Fskill_Skill4"
+	{
+		"#format"		"{1:d}"
+		"chi"			"[终极] 黑洞爆发 {1} Reload"
+		"en"			"[Ultimate] Ex-strike {1} Reload"
+	}
+	"DisplayGun"
+	{
+		"#format"		"{1:t}, {2:d}, {3:d}"
+		"en"			"{1} [{2}/{3}]"
+	}
+
+	"GUN1"
+	{
+		"en"			"没有"
+	}
+
+	"GUN2"
+	{
+		"en"			"猫枪"
+	}
+
+	"GUN3"
+	{
+		"en"			"PlasmaGun"
+	}
+
+	"GUN4"
+	{
+		"en"			"KSG"
+	}
+	"GUN5"
+	{
+		"en"			"FG42"
+	}
+	"GUN6"
+	{
+		"en"			"XR2"
+	}
+	"GUN7"
+	{
+		"en"			"PKM"
+	}
+
+	"GUN8"
+	{
+		"en"			"Greande Laucher"
+	}
+
+	"GUN9"
+	{
+		"en"			"Skull 3"
+	}
+	"GUN10"
+	{
+		"en"			"Skull 4"
+	}
+	"GUN11"
+	{
+		"en"			"HomeMade"
+	}
+	"GUN12"
+	{
+		"en"			"M200"
+	}
+	"GUN13"
+	{
+		"en"			"M134"
+	}		
+	// ======================
+	//
+	//       Bag
+	//
+	//=======================
+
+	"MMenu_Bag"
+	{
+		"chi"			"背包"
+		"en"			"Bag"
+	}
+
+	"MMenu_BAG_USE"
+	{
+		"chi"			"使用"
+		"en"			"Use"
+	}
+
+	"MMenu_BAG_BACK"
+	{
+		"chi"			"返回"
+		"en"			"Back"
+	}
+
+	"MMenu_BAG_DROP"
+	{
+		"chi"			"扔弃"
+		"en"			"Drop"
+	}
+
+	"BAG_ITEMMENU"
+	{
+		"#format"		"{1:t}, {2:d}"
+		"en"			"{1} [{2}/5]"
+	}
+
+	"BAG_RESTRUCTURE"
+	{
+		"chi"			"重置背包"
+		"en"			"Restructure "
+	}
+
+	"BAG_ITEMNOTE"
+	{
+		"#format"		"{1:t}, {2:d}, {3:t}, {4:s}"
+		"chi"			"{1} [{2}/5]\n帮助：{3}\n级别：{4}\n \n"
+		"en"			"{1} [{2}/5]\nNote：{3}\nGrade：{4}\n \n"
+	}
+
+	"HP_NOTE"
+	{
+		"#format"		"{1:s}"
+		"chi"			"回复 {1} 点血量"
+		"en"			"{1} Health Point"
+	}
+
+	"AP_NOTE"
+	{
+		"#format"		"{1:s}"
+		"chi"			"回复 {1} 点护甲"
+		"en"			"{1} Armor Point"
+	}
+
+	"HPAP_NOTE"
+	{
+		"#format"		"{1:s}"
+		"chi"			"回复 {1} 点血量和护甲"
+		"en"			"{1} HP & AP"
+	}
+
+	"ATK_TIME"
+	{
+		"#format"		"{1:s}"
+		"chi"			"获得 {1} 秒的攻击加成效果"
+		"en"			"Acquire {1} Second Atk Buff"
+	}
+
+	"SPEED_TIME"
+	{
+		"#format"		"{1:s}"
+		"chi"			"获得 {1} 秒的速度加成效果"
+		"en"			"Acquire {1} Second Speed Buff"
+	}
+
+	"EXP_TIME"
+	{
+		"#format"		"{1:s}"
+		"chi"			"获得 {1} 秒的经验加成效果"
+		"en"			"Acquire {1} Second Xp Buff"
+	}
+
+	"SP_TIME"
+	{
+		"#format"		"{1:s}"
+		"chi"			"获得 {1} 秒的点数加成效果"
+		"en"			"Acquire {1} Second Sp Buff"
+	}
+
+	"GUNXP_TIME"
+	{
+		"#format"		"{1:s}"
+		"chi"			"获得 {1} 秒的枪经加成效果"
+		"en"			"Acquire {1} Second GunXp Buff"
+	}
+	
+	"HE_TIME_MON"
+	{
+		"#format"		"{1:s}"
+		"en"			"获得烈焰手雷的一个月使用时间"
+	}
+	
+	"HE2_TIME_MON"
+	{
+		"#format"		"{1:s}"
+		"en"			"获得爆炎手雷的一个月使用时间"
+	}
+	
+	"HE_TIME_EVER"
+	{
+		"#format"		"{1:s}"
+		"en"			"获得烈焰手雷的永久使用时间"
+	}
+	
+	"HE2_TIME_EVER"
+	{
+		"#format"		"{1:s}"
+		"en"			"获得爆炎手雷的永久使用时间"
+	}
+
+	"ITEM_NONE"
+	{
+		"chi"			"空白"
+		"en"			"None"
+	}
+
+	"ITEM_GREEN"
+	{
+		"chi"			"绿色药草"
+		"en"			"Plant(G)"
+	}
+
+	"ITEM_YELLOW"
+	{
+		"chi"			"黄色药草"
+		"en"			"Plant(Y)"
+	}
+
+	"ITEM_RED"
+	{
+		"chi"			"红色药草"
+		"en"			"Plant(R)"
+	}
+
+	"ITEM_G_G"
+	{
+		"chi"			"绿色药丸"
+		"en"			"Plant(G + G)"
+	}
+
+	"ITEM_Y_Y"
+	{
+		"chi"			"黄色药丸"
+		"en"			"Plant(Y + Y)"
+	}
+
+	"ITEM_R_R"
+	{
+		"chi"			"红色药丸"
+		"en"			"Plant(R + R)"
+	}
+
+	"ITEM_G_R"
+	{
+		"chi"			"变异药丸1"
+		"en"			"Plant(G + R)"
+	}
+
+	"ITEM_Y_R"
+	{
+		"chi"			"变异药丸2"
+		"en"			"Plant(Y + R)"
+	}
+
+	"ITEM_G_Y"
+	{
+		"chi"			"变异药丸3"
+		"en"			"Plant(G + Y)"
+	}
+
+	"ITEM_G_G_G"
+	{
+		"chi"			"绿色药水"
+		"en"			"Plant(G + G + G)"
+	}
+
+	"ITEM_Y_Y_Y"
+	{
+		"chi"			"黄色药水"
+		"en"			"Plant(Y + Y + Y)"
+	}
+
+	"ITEM_R_R_R"
+	{
+		"chi"			"红色药水"
+		"en"			"Plant(R + R + R)"
+	}
+
+	"ITEM_FULL"
+	{
+		"chi"			"超级药水"
+		"en"			"Plant(R + G + Y)"
+	}
+
+	"ITEM_ATK_D"
+	{
+		"chi"			"下级攻击符文"
+		"en"			"Scroll: Atk buff [Grade D]"
+	}
+
+	"ITEM_ATK_C"
+	{
+		"chi"			"中级攻击符文"
+		"en"			"Scroll: Atk buff [Grade C]"
+	}
+
+	"ITEM_ATK_B"
+	{
+		"chi"			"上级攻击符文"
+		"en"			"Scroll: Atk buff [Grade B]"
+	}
+
+	"ITEM_ATK_A"
+	{
+		"chi"			"古代攻击符文"
+		"en"			"Scroll: Atk buff [Grade A]"
+	}
+
+	"ITEM_ATK_S"
+	{
+		"chi"			"神秘攻击符文"
+		"en"			"Scroll: Atk buff [Grade S]"
+	}
+
+	"ITEM_SPEED_D"
+	{
+		"chi"			"下级速度符文"
+		"en"			"Scroll: Speed buff [Grade D]"
+	}
+
+	"ITEM_SPEED_C"
+	{
+		"chi"			"中级速度符文"
+		"en"			"Scroll: Speed buff [Grade C]"
+	}
+
+	"ITEM_SPEED_B"
+	{
+		"chi"			"上级速度符文"
+		"en"			"Scroll: Speed buff [Grade B]"
+	}
+
+	"ITEM_SPEED_A"
+	{
+		"chi"			"古代速度符文"
+		"en"			"Scroll: Speed buff [Grade A]"
+	}
+
+	"ITEM_SPEED_S"
+	{
+		"chi"			"神秘速度符文"
+		"en"			"Scroll: Speed buff [Grade S]"
+	}
+
+	"ITEM_EXP_CARD"
+	{
+		"chi"			"经验双倍卡"
+		"en"			"Card: Exp Doubling"
+	}
+
+	"ITEM_SP_CARD"
+	{
+		"chi"			"点数双倍卡"
+		"en"			"Card: Sp Doubling"
+	}
+
+	"ITEM_GUNXP_CARD"
+	{
+		"chi"			"枪经双倍卡"
+		"en"			"Card: GunXp Doubling"
+	}
+
+	"ITEM_EXP_CARD_E"
+	{
+		"en"			"Ever Double XP Card"
+		"chi"			"永久经验双倍卡"
+	}
+
+	"ITEM_SP_CARD_E"
+	{
+		"en"			"Ever Double SP Card"
+		"chi"			"永久点数双倍卡"
+	}
+
+	"ITEM_GUNXP_CARD_E"
+	{
+		"en"			"Ever Double Weapons XP Card"
+		"chi"			"永久枪经双倍卡"
+	}
+	
+	"ITEM_BOX1"
+	{
+		"en"			"道具箱"
+	}
+
+	"ITEM_BOX2"
+	{
+		"en"			"速度符文盒"
+	}
+
+	"ITEM_BOX3"
+	{
+		"en"			"攻击符文盒"
+	}
+
+	"ITEM_BOX4"
+	{
+		"en"			"人物箱"
+	}
+
+	"ITEM_BOX5"
+	{
+		"en"			"武器箱"
+	}
+
+	"ITEM_WOODEN_HOE"
+	{
+		"en"			"木锄"
+	}
+
+	"ITEM_STONE_HOE"
+	{
+		"en"			"石锄"
+	}
+
+	"ITEM_IRON_HOE"
+	{
+		"en"			"铁制锄头"
+	}
+
+	"ITEM_GOLDEN_HOE"
+	{
+		"en"			"金锄"
+	}
+
+	"ITEM_DIAMOND_HOE"
+	{
+		"en"			"钻石锄"
+	}
+
+	"ITEM_ORE1"
+	{
+		"en"			"废矿石"
+	}
+
+	"ITEM_ORE2"
+	{
+		"en"			"矿石"
+	}
+
+	"ITEM_ORE3"
+	{
+		"en"			"铜矿石"
+	}
+
+	"ITEM_ORE4"
+	{
+		"en"			"铁矿石"
+	}
+
+	"ITEM_ORE5"
+	{
+		"en"			"银矿石"
+	}
+
+	"ITEM_ORE6"
+	{
+		"en"			"水晶矿石"
+	}
+
+	"ITEM_ORE7"
+	{
+		"en"			"黄金矿石"
+	}
+
+	"ITEM_ORE8"
+	{
+		"en"			"黑曜石矿"
+	}
+
+	"ITEM_ORE9"
+	{
+		"en"			"钻石"
+	}
+
+	"ITEM_ORE10"
+	{
+		"en"			"Miracle石"
+	}
+
+	"ITEM_2017"
+	{
+		"en"			"2017 新年礼物"
+	}
+
+	"2017_NOTE"
+	{
+		"#format"		"{1:s}"
+		"en"			"特别奖励"
+	}
+
+	"ITEM_VIPWPN"
+	{
+		"en"			"VIP枪试用卡"
+	}
+
+	"VIPWPN_NOTE"
+	{
+		"#format"		"{1:s}"
+		"en"			"VIP枪试用卡"
+	}
+
+	"ITEM_UPGRADE_ENHANCE"
+	{
+		"en"			"人物强化道具"
+	}
+
+	"ITEM_UPGRADE_CLEAN"
+	{
+		"en"			"人物技能重置"
+	}
+
+	"ITEM_2"
+	{
+		"en"			"【2】"
+	}
+
+	"ITEM_0"
+	{
+		"en"			"【0】"
+	}
+
+	"ITEM_1"
+	{
+		"en"			"【1】"
+	}
+
+	"ITEM_7"
+	{
+		"en"			"【7】"
+	}
+
+	"ITEM_CHICKEN"
+	{
+		"en"			"【鸡】"
+	}
+
+	"ITEM_YEAR"
+	{
+		"en"			"【年】"
+	}
+
+	"ITEM_FAST"
+	{
+		"en"			"【快】"
+	}
+
+	"ITEM_HAPPY"
+	{
+		"en"			"【乐】"
+	}
+	
+	"ITEM_HE_MON"
+	{
+		"en"			"烈焰手雷 [月卡]"
+	}
+	
+	"ITEM_HE2_MON"
+	{
+		"en"			"爆炎手雷 [月卡]"
+	}
+	
+	"ITEM_HE_EVER"
+	{
+		"en"			"烈焰手雷 [永久]"
+	}
+	
+	"ITEM_HE2_EVER"
+	{
+		"en"			"爆炎手雷 [永久]"
+	}
+
+	"COLLECTION_NOTE"
+	{
+		"en"			"集字活动"
+	}
+	
+	// ======================
+	//
+	//	Combine
+	//
+	//=======================
+
+	"MMenu_Combine"
+	{
+		"chi"			"合成系统"
+		"en"			"Combine System"
+	}
+
+	"MMenu_Combine_Add"
+	{
+		"chi"			"新增物品"
+		"en"			"Add Item"
+	}
+
+	"MMenu_Combine_combine"
+	{
+		"en"			"Combine"
+		"chi"			"进行合成"
+	}
+
+	"Combine_Ready"
+	{
+		"chi"			"准备合成"
+		"en"			"Ready?"
+	}
+
+	"MMenu_Combine_return"
+	{
+		"chi"			"返回"
+		"en"			"Back"
+	}
+
+	// ======================
+	//
+	//	Job
+	//
+	//=======================
+
+	"Menu_JOB"
+	{
+		"chi"			"职业"
+		"en"			"Job Menu"
+	}
+
+	"Menu_JOB2"
+	{
+		"#format"		"{1:d}"
+		"chi"			"职业\n技能点:{1}"
+		"en"			"Job Menu\nSkill Point:{1}"
+	}
+
+	"JOB_TYPE"
+	{
+		"#format"		"{1:t}"
+		"chi"			"职业[{1}]"
+		"en"			"Job[{1}]"
+	}
+
+	"JOB_CAN_UPGRADE"
+	{
+		"chi"			"可升级"
+		"en"			"Available "
+	}
+
+	"JOB_EXP"
+	{
+		"#format"		"{1:d},{2:d}"
+		"chi"			"经验值 [{1} | {2}]"
+		"en"			"Exp [{1} | {2}]"
+	}
+
+	"JOB1"
+	{
+		"chi"			"枪械达人"
+		"en"			"Weapon Master"
+	}
+
+	"JOB1_HELP"
+	{
+		"chi"			"枪械威力巨大 掌握冰火子弹"
+		"en"			"Expertize in weapon , Power type "
+	}
+
+	"JOB2"
+	{
+		"chi"			"江湖中医"
+		"en"			"Supporter"
+	}
+
+	"JOB2_HELP"
+	{
+		"chi"			"专业毒奶 掌握无限子弹技能"
+		"en"			"Professional in Support. Easy to reverse anything "
+	}
+
+	"JOB3"
+	{
+		"chi"			"浪荡刀客"
+		"en"			"Knife Master"
+	}
+
+	"JOB3_HELP"
+	{
+		"chi"			"爆菊专业户 以爆菊为荣 以拿枪为耻 "
+		"en"			"Master in knife, recommend to soloist"
+	}
+
+	"JOB4"
+	{
+		"chi"			"超能异人"
+		"en"			"Mutated"
+	}
+
+	"JOB4_HELP"
+	{
+		"chi"			"防御极佳 掌控雷电 冲击波"
+		"en"			"Excellent in guarding, Capricious type"
+	}
+
+	"JOB_BRIEF"
+	{
+		"#format"		"{1:t},{2:t}"
+		"chi"			"{1} | {2}"
+		"en"			"{1} | {2}"
+	}
+
+	"JOB_SELECT"
+	{
+		"#format"		"{1:t},{2:d},{3:d},{4:s}"
+		"en"			"{1} [{2} | {3}] {4}"
+	}
+
+	"JOB1_SKILL1"
+	{
+		"chi"			"(被动)精通"
+		"en"			"Weapon Level++"
+	}
+
+	"JOB1_SKILL2"
+	{
+		"chi"			"(被动)击退"
+		"en"			"Gun Knockback+"
+	}
+
+	"JOB1_SKILL3"
+	{
+		"chi"			"(被动)加成"
+		"en"			"Gun Exp+"
+	}
+
+	"JOB1_SKILL4"
+	{
+		"chi"			"(主动技能)致命射击"
+		"en"			"[Count]Double Damage"
+	}
+
+	"JOB1_SKILL5"
+	{
+		"chi"			"(泠却被动)绝地反击"
+		"en" 			"Excitied"
+	}
+
+	"JOB1_SKILL6"
+	{
+		"chi"			"(被动)爆伤"
+		"en" 			"Critical Hit"
+	}
+
+	"JOB1_SKILL7"
+	{
+		"chi"			"(被动)技巧"
+		"en" 			"Specialize"
+	}
+
+	"JOB1_SKILL8"
+	{
+		"chi"			"(主动技能)冰冻子弹"
+		"en" 			"Frozen Bullet"
+	}
+
+	"JOB1_SKILL9"
+	{
+		"chi"			"(被动)穿透"
+		"en" 			"Armor Breaking"
+	}
+
+	"JOB1_SKILL10"
+	{
+		"chi"			"(被动)愤怒"
+		"en" 			"Indignation"
+	}
+
+	"JOB1_SKILL11"
+	{
+		"chi"			"(泠却被动)走火入魔"
+		"en" 			"Critical Buff"
+	}
+
+	"JOB1_SKILL12"
+	{
+		"chi"			"(主动技能)爆炸子弹"
+		"en" 			"Explosive Bullet"
+	}
+
+	"JOB2_SKILL1"
+	{
+		"chi"			"(被动)弹药补给"
+		"en"			"Unlimited primary bp ammo"
+	}
+
+	"JOB2_SKILL2"
+	{
+		"chi"			"(被动)团队共享"
+		"en"			"Sharing Exp"
+	}
+
+	"JOB2_SKILL3"
+	{
+		"chi"			"(被动)团队援助"
+		"en"			"Ammo Support"
+	}
+
+	"JOB2_SKILL4"
+	{
+		"chi"			"(主动技能)无限子弹"
+		"en"			"[Area][Count]Unlimited Ammo"
+	}
+
+	"JOB2_SKILL5"
+	{
+		"chi"			"(泠却被动)求生欲望"
+		"en"			"Counter"
+	}
+
+	"JOB2_SKILL6"
+	{
+		"chi"			"(被动)幸运"
+		"en"			"Lucky Drop"
+	}
+
+	"JOB2_SKILL7"
+	{
+		"chi"			"(被动)削弱"
+		"en"			"[Area]Armor Support"
+	}
+
+	"JOB2_SKILL8"
+	{
+		"chi"			"(主动技能)弟弟救我"
+		"en"			"[Area][Count]Hp Ap Recovery"
+	}
+
+	"JOB2_SKILL9"
+	{
+		"chi"			"(被动)侦测"
+		"en"			"Research"
+	}
+
+	"JOB2_SKILL10"
+	{
+		"chi"			"(被动)抵抗"
+		"en"			"Resist"
+	}
+
+	"JOB2_SKILL11"
+	{
+		"chi"			"(被动)弹药补给"
+		"en"			"Nade Refill"
+	}
+
+	"JOB2_SKILL12"
+	{
+		"chi"			"(主动技能)九阳神功"
+		"en"			"[Area][Count]Limit Breaker"
+	}
+
+	"JOB3_SKILL1"
+	{
+		"chi"			"(被动)小刀击飞"
+		"en"			"Knife knockback"
+	}
+
+	"JOB3_SKILL2"
+	{
+		"chi"			"(被动)风一样的男人"
+		"en"			"Velocity+"
+	}
+
+	"JOB3_SKILL3"
+	{
+		"chi"			"(被动)插上翅膀飞啊"
+		"en"			"Gravity+t"
+	}
+
+	"JOB3_SKILL4"
+	{
+		"chi"			"(主动技能)隐身"
+		"en"			"[Count]Invisible"
+	}
+
+	"JOB3_SKILL5"
+	{
+		"chi"			"(泠却被动)逃脱"
+		"en"			"Escape"
+	}
+
+	"JOB3_SKILL6"
+	{
+		"chi"			"(被动)潜伏"
+		"en"			"Silent Walk"
+	}
+
+	"JOB3_SKILL7"
+	{
+		"chi"			"(被动)背击"
+		"en"			"Backstab"
+	}
+
+	"JOB3_SKILL8"
+	{
+		"chi"			"(主动技能)火焰之刃"
+		"en"			"[Count]Flamming Knife"
+	}
+
+	"JOB3_SKILL9"
+	{
+		"chi"			"(泠却被动)强击"
+		"en"			"Strike"
+	}
+
+	"JOB3_SKILL10"
+	{
+		"chi"			"(被动)格档"
+		"en"			"Parry"
+	}
+
+	"JOB3_SKILL11"
+	{
+		"chi"			"(被动)刀下亡魂"
+		"en"			"Strike"
+	}
+
+	"JOB3_SKILL12"
+	{
+		"chi"			"(主动技能)爆菊大法"
+		"en"			"Ulimate Slash"
+	}
+
+	"JOB4_SKILL1"
+	{
+		"chi"			"(被动)抵御"
+		"en"			"Damage Absorb"
+	}
+
+	"JOB4_SKILL2"
+	{
+		"chi"			"(被动)吸取护甲"
+		"en"			"Armor Absorb"
+	}
+
+	"JOB4_SKILL3"
+	{
+		"chi"			"(被动)吸取血量"
+		"en"			"Health Absorb"
+	}
+
+	"JOB4_SKILL4"
+	{
+		"chi"			"(主动技能)一柱擎天"
+		"en"			"[Count]Invincible"
+	}
+
+	"JOB4_SKILL5"
+	{
+		"chi"			"(泠却被动)警惕"
+		"en"			"Boosted"
+	}
+
+	"JOB4_SKILL6"
+	{
+		"chi"			"(被动)第六感"
+		"en"			"Sixth Sense"
+	}
+
+	"JOB4_SKILL7"
+	{
+		"chi"			"(被动)精神集中"
+		"en"			"Concentrate"
+	}
+
+	"JOB4_SKILL8"
+	{
+		"chi"			"(主动技能)冲击波"
+		"en"			"Shockwave"
+	}
+
+	"JOB4_SKILL9"
+	{
+		"chi"			"(被动)掠夺"
+		"en"			"Snatch"
+	}
+
+	"JOB4_SKILL10"
+	{
+		"chi"			"(泠却被动)愈战愈勇"
+		"en"			"ExtraOrdinary"
+	}
+
+	"JOB4_SKILL11"
+	{
+		"chi"			"(被动)奋起反抗"
+		"en"			"Power Up"
+	}
+
+	"JOB4_SKILL12"
+	{
+		"chi"			"(主动技能)网瘾少年"
+		"en"			"[Count]Ligntning Strike"
+	}
+
+	"JOB_LConfrim"
+	{
+		"#format"		"{1:t}, {2:t}, {3:d}, {4:d}"
+		"en"			"Skill Confrim\nSkill: {1}\nEffect: {2}\nLevel Required: {3}\nSkPt Required: {4}\n\n"
+		"chi"			"技能确认\n技能: {1}\n效果: {2}\n等级要求: {3}\n技能点要求: {4}\n\n"
+	}
+
+	"JOB1_NOTE1"
+	{
+		"chi"			"增加枪械等级上限"
+		"en"			"Increase the maximum value of gunlevel"
+	}
+
+	"JOB1_NOTE2"
+	{
+		"chi"			"枪械击退效果加强"
+		"en"			"Increase the GunFire Knockback"
+	}
+
+	"JOB1_NOTE3"
+	{
+		"chi"			"获取的枪械经验增加"
+		"en"			"Increase value of gunexp gained "
+	}
+
+	"JOB1_NOTE4"
+	{
+		"chi"			"一定时间内 1.5 倍伤害"
+		"en"			"150% the damage in specific time"
+	}
+
+	"JOB1_NOTE5"
+	{
+		"chi"			"受到攻击时 , 一定时间内增加攻击力(触发时开始泠却)"
+		"en" 			"Increase 5% atk in 10s after get hurted by zombie"
+	}
+
+	"JOB1_NOTE6"
+	{
+		"chi"			"击杀 ZM 时增加爆击率"
+		"en" 			"Increase Precentage of Critical Hit"
+	}
+
+	"JOB1_NOTE7"
+	{
+		"chi"			"击中僵尸时有机率不耗子弹"
+		"en" 			"After headshoot to zombie, change to obtain extra bullet"
+	}
+
+	"JOB1_NOTE8"
+	{
+		"chi"			"子弹附有冰涷效果"
+		"en" 			"Freeze-up zombie by bullet attack "
+	}
+
+	"JOB1_NOTE9"
+	{
+		"chi"			"有机率增加僵尸受到的伤害"
+		"en" 			"Chance to reduce enemy protection rate while damaging them"
+	}
+
+	"JOB1_NOTE10"
+	{
+		"chi"			"附近人类被感染/死亡时提升爆击率"
+		"en" 			"Obtain 1% critical hit when a nearby people get infected / killed "
+	}
+
+	"JOB1_NOTE11"
+	{
+		"chi"			"爆击时追加50％伤害并范围内的玩家得到20％爆击机率（触发时泠却）"
+		"en" 			"Extra 1.75% Damage while Critical hit is trigged. Meanwhile, area boost with 2% critical hit"
+	}
+
+	"JOB1_NOTE12"
+	{
+		"chi"			"子弹附加爆炸效果"
+		"en" 			"Explosion occur when bullet impact with wall"
+	}
+
+	"JOB2_NOTE1"
+	{
+		"chi"			"攻击时有机率弹药回收"
+		"en"			"Unlimited primary bp ammo"
+	}
+
+	"JOB2_NOTE2"
+	{
+		"chi"			"附近队友击杀僵尸时会获得经验"
+		"en"			"Exp gain when nearby teammate kill a zombie"
+	}
+
+	"JOB2_NOTE3"
+	{
+		"chi"			"附近队友击杀僵尸时会获得子弹"
+		"en"			"Ammo support to teammate when they kill a zombie"
+	}
+
+	"JOB2_NOTE4"
+	{
+		"chi"			"[范围]一定时间内无限子弹"
+		"en"			"Unlimit Clip in specific time"
+	}
+
+	"JOB2_NOTE5"
+	{
+		"chi"			"受到攻击时，一定时间内无限子弹（触发时泠却）"
+		"en"			"Addition 10s Unlimitammo when hurted by zombie  "
+	}
+
+	"JOB2_NOTE6"
+	{
+		"chi"			"增加物品的掉落率"
+		"en"			"Increase item drop rate"
+	}
+
+	"JOB2_NOTE7"
+	{
+		"chi"			"降低范围内的玩家被扣的护甲值"
+		"en"			"Reduce Armor reduction when people get into your range "
+	}
+
+	"JOB2_NOTE8"
+	{
+		"chi"			"[范围]回复HP&AP"
+		"en"			"HP AP Recovery in specific area"
+	}
+
+	"JOB2_NOTE9"
+	{
+		"chi"			"蹲下5秒后，可侦测附近僵尸"
+		"en"			"Duck with 5s, nearby zombie will be located"
+	}
+
+	"JOB2_NOTE10"
+	{
+		"chi"			"附近人类感染/死亡时，一定时间内无限子弹"
+		"en"			"Gain 1S Unlimit ammo while nearby people get infected / killed"
+	}
+
+	"JOB2_NOTE11"
+	{
+		"chi"			"击杀zm时有机率获得冰冻/燃烧"
+		"en"			"Chance to get a nade while killing zombie"
+	}
+
+	"JOB2_NOTE12"
+	{
+		"chi"			"[范围]一定时间内提升各能力"
+		"en"			"Increase ATK+DEF+CRIT in range"
+	}
+
+	"JOB3_NOTE1"
+	{
+		"chi"			"增加重刀击退效果"
+		"en"			"Knife knockback to zombie"
+	}
+
+	"JOB3_NOTE2"
+	{
+		"chi"			"移速增加"
+		"en"			"Increase walking speed"
+	}
+
+	"JOB3_NOTE3"
+	{
+		"chi"			"能跳得更高"
+		"en"			"Reduce gravity"
+	}
+
+	"JOB3_NOTE4"
+	{
+		"chi"			"一定时间内隐身"
+		"en"			"Become Invisible in given time"
+	}
+
+	"JOB3_NOTE5"
+	{
+		"chi"			"受到攻击时,10秒内增加跑速(触发时泠却)"
+		"en"			"10S acceleration while hurted by zombie"
+	}
+
+	"JOB3_NOTE6"
+	{
+		"chi"			"无声走路"
+		"en"			"Silent Walk"
+	}
+
+	"JOB3_NOTE7"
+	{
+		"chi"			"重刀攻击僵尸背部时追加伤害"
+		"en"			"Extra damage while making backstab"
+	}
+
+	"JOB3_NOTE8"
+	{
+		"chi"			"一定时间内刀类攻击时带有烧伤效果"
+		"en"			"Flamming Knife in given time"
+	}
+
+	"JOB3_NOTE9"
+	{
+		"chi"			"下一击时追加伤害(触发时泠却)"
+		"en"			"Extra 500-1350 damage with using knife attack"
+	}
+
+	"JOB3_NOTE10"
+	{
+		"chi"			"一定机率格挡僵尸对你造成的伤害"
+		"en"			"Ignore Damage with specific chance"
+	}
+
+	"JOB3_NOTE11"
+	{
+		"chi"			"秒杀特定血量以下的僵尸"
+		"en"			"Chance to instant kill with zombie lower than 10 precent of it's original health "
+	}
+
+	"JOB3_NOTE12"
+	{
+		"chi"			"大幅增加下一击的伤害"
+		"en"			"Terrable damage with next hit"
+	}
+
+	"JOB4_NOTE1"
+	{
+		"chi"			"降低所受到的伤害"
+		"en"			"Damage Reduction"
+	}
+
+	"JOB4_NOTE2"
+	{
+		"chi"			"每次造成 5000 伤害时获得 AP"
+		"en"			"Addition armor when killing a zombie"
+	}
+
+	"JOB4_NOTE3"
+	{
+		"chi"			"每次造成 5000 伤害时获得 HP"
+		"en"			"Addition health when killing a zombie"
+	}
+
+	"JOB4_NOTE4"
+	{
+		"chi"			"一定时间内无敌"
+		"en"			"Become Immortal in given time"
+	}
+
+	"JOB4_NOTE5"
+	{
+		"chi"			"受到攻击后，一定时间内降低伤害 (触发时泠却)"
+		"en"			"10s 20% Extra Damage Ruduction after getting hurt "
+	}
+
+	"JOB4_NOTE6"
+	{
+		"chi"			"侦破隐身技能"
+		"en"			"Detect any invisible player"
+	}
+
+	"JOB4_NOTE7"
+	{
+		"chi"			"增加对小僵尸王的伤害"
+		"en"			"Extra Damage to Sub Boss"
+	}
+
+	"JOB4_NOTE8"
+	{
+		"chi"			"范围内弹开僵尸，并扣除 3000 血量"
+		"en"			"Crush Zombie with 1000 health with area blast"
+	}
+
+	"JOB4_NOTE9"
+	{
+		"chi"			"附近僵尸死后护甲增加"
+		"en"			"Obtain 1 AP after a nearby zombie dead"
+	}
+
+	"JOB4_NOTE10"
+	{
+		"chi"			"击杀一只僵尸后 30 秒内再次击杀时 , 10 秒内 1.5 倍攻击 (触发时泠却)"
+		"en"			"After finish a zombie, 10s Double damage if killing another zombie in 5s"
+	}
+
+	"JOB4_NOTE11"
+	{
+		"chi"			"僵尸王出现后  伤害提升"
+		"en"			"Power Up After Boss Detected"
+	}
+
+	"JOB4_NOTE12"
+	{
+		"chi"			"放出雷电并造成各 1000 伤害"
+		"en"			"Ligntning Strike and damage 500 per hit"
+	}
+
+	"JOB_INFO"
+	{
+		"chi"			"玩家福利"
+		"en"			"Information"
+	}
+	"JOB_ABILIT"
+	{
+		"chi"			"状态"
+		"en"			"Status"
+	}
+	"JOB_STATCONTROL"
+	{
+		"#format"		"{1:t},{2:d}, {3:d}, {4:d}"
+		"en"			"{1} [{2}/{3}] {4} SkPt"
+	}
+	"JOB_HEALTH"
+	{
+		"chi"			"血量"
+		"en"			"Health"
+	}
+	"JOB_ARMOR"
+	{
+		"chi"			"护甲"
+		"en"			"Armor"
+	}
+	"JOB_SPEED"
+	{
+		"chi"			"速度"
+		"en"			"Speed"
+	}
+	"JOB_GRAVITY"
+	{
+		"chi"			"重力"
+		"en"			"Gravity"
+	}
+	"JOB_INTRO"
+	{
+		"#format" 		"{1:t}, {2:t}"
+		"en"			"{1} [{2}]"
+	}
+
+	"LIMIT"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"增加上限: {1}  "
+		"en"			"Limit : {1}"
+	}
+
+	"PRECENT"
+	{
+		"#format"		"{1:2.1f}"
+		"chi"			"机率: {1}  "
+		"en"			"Precentage : {1}"
+	}
+
+	"PRECENT2"
+	{
+		"#format"		"{1:2.1f}"
+		"chi"			"+百份比: {1}  "
+		"en"			"+Precent : {1}"
+	}
+
+	"TIME"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"时间: {1} 秒 "
+		"en"			"Time : {1} S"
+	}
+
+	"POINT"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"数值: {1}  "
+		"en"			"Value : {1}"
+	}
+
+	"COOLDOWN"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"冷却降低: {1} 秒 "
+		"en"			"CoolDown Reduction: {1} S"
+	}
+
+	"RANGE"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"范围: {1}"
+		"en"			"AREA : {1}"
+	}
+
+	"NOTHING"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"{1} | 1为己激活 0为未激活"
+		"en"			"{1} | 1 For Activiate 0 For Off"
+	}
+
+	"DAMAGE"
+	{
+		"#format"		"{1:2.1f}"
+		"chi"			"伤害: {1} 倍"
+		"en"			"Damage : {1} Times"
+	}
+
+	"DAMAGE2"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"伤害: {1}"
+		"en"			"Damage : {1}"
+	}
+
+	"NUMBER"
+	{
+		"#format"		"{1:2.0f}"
+		"chi"			"数量: {1} "
+		"en"			"Damage : {1} "
+	}
+
+	"You Pick a job"
+	{
+		"#format"		"{1:t}"
+		"chi"			"你己选择 {darkred}{1}{default} 为你的种类。"
+		"en"			"Congratulation! You have selected {darkred}{1}{default} as your job。"
+	}
+	"Out of point"
+	{
+		"chi"			"你的 {darkred}技能点数{default} 不足。"
+		"en"			"You are running out of {darkred}Skill Point{default}。"
+	}
+	"skill max"
+	{
+		"#format"		"{1:t}"
+		"chi"			"你的 {darkred}{1}{default} 己经提升到上限! 不能再升级。"
+		"en"			"You have reach the maximum level of {darkred}{1}{default}。"
+	}
+	"skill no exp"
+	{
+		"#format"		"{1:t}"
+		"chi"			"你的 {darkred}{1}{default} 经验不足! 不能升级。"
+		"en"			"Your {darkred}{1}{default} running out of job xp, can't be upgraded。"
+	}
+	"skill no level"
+	{
+		"#format"		"{1:t}"
+		"chi"			"你的 {darkred}{1}{default} 等级不足! 不能升级。"
+		"en"			"Your {darkred}{1}{default} running out of level, can't be upgraded。"
+	}
+	"skill used"
+	{
+		"chi"			"不能发动。"
+		"en"			"Used"
+	}
+	"Upgrade skill"
+	{
+		"#format"		"{1:t}, {2:d}, {3:d}"
+		"chi"			"己提升 {darkred}{1}{default} 到 {darkred}{2}{default}, 技能上限为 {darkred}{3}{default}级。"
+		"en"			"You have improved {darkred}{1}{default} to level {darkred}{2}{default}, maximum level: {darkred}{2}{default}。"
+	}
+	// ======================
+	//
+	//	Mission
+	//
+	//=======================
+
+	"Mission Data Menu1"
+	{
+		"en"			"任务进度\n"
+	}
+
+	"Mission Data Menu2"
+	{
+		"en"			"空位"
+	}
+
+	"Mission Data Menu3"
+	{
+		"#format"		"{1:t}, {2:i}, {3:i}, {4:i}"
+		"en"			"{1}\n{2} 分钟 {3} 秒 / {4} 分钟\n"
+	}
+
+	"Mission Data Menu4"
+	{
+		"#format" 		"{1:t}"
+		"en"			"{1}\n"
+	}
+
+	"Mission Data Menu5"
+	{
+		"en"			"没有"
+	}
+
+	"Mission Data Menu6"
+	{
+		"en"			"返回"
+	}
+
+	"Mission Data Menu7"
+	{
+		"en"			"查看任务"
+	}
+
+	"Mission Data Menu8"
+	{
+		"en"			"放弃 (删除数据)"
+	}
+
+	"MMenu_Go"
+	{
+		"chi"			"进行"
+		"en"			"Accept"
+	}
+	"MMenu_Get"
+	{
+		"en"			"Get Item"
+		"chi"			"领取奖励"
+	}
+	"TASK_DATA"
+	{
+		"#format" 	"{1:t}, {2:t}, {3:t}, {4:s}, {5:d}"
+		"en"		"TaskName：{1}\nContent：{2}\nReturn：{3}\nTime：{4}\nLevelRequired：{5}\n \n"
+		"chi"		"任务名称：{1}\n任务内容：{2}\n任务奖励：{3}\n任务时限：{4}\n需要等级：{5}\n \n"
+	}
+
+	"TASK_GIVE"
+	{
+		"#format" 	"{1:d}, {2:d}, {3:s}, {4:s }, {5:s }, {6:s }, {7:s }"
+		"en"		"\n{1} Xp\n{2} 弹药袋{3}{4}{5}{6}{7}"
+	}
+
+	"MISS_HTIME"
+	{
+		"#format"	"{1:d}"
+		"chi"		"{1} 分钟"
+		"en"		"{1} Minutes"
+	}
+
+	"MISS_NTIME"
+	{
+		"chi"		"没有"
+		"en"		"None"
+	}
+
+	"TASK_NAME1"
+	{
+		"chi"		"报到"
+		"en"		"Beginner"
+	}
+
+	"TASK_HELP1"
+	{
+		"chi"		"伤害僵尸 50 次"
+		"en"		"Damage Zombie with 50 times"
+	}
+
+	"TASK_NAME2"
+	{
+		"chi"		"初出茅庐"
+		"en"		"Training"
+	}
+
+	"TASK_HELP2"
+	{
+		"chi"		"击杀 5 只僵尸 "
+		"en"		"Kill 5 Zombie"
+	}
+
+	"TASK_NAME3"
+	{
+		"chi"		"享受游戏"
+		"en"		"Enjoy It!"
+	}
+
+	"TASK_HELP3"
+	{
+		"chi"		"游玩 15 场 "
+		"en"		"Play 15 Round"
+	}
+
+	"TASK_NAME4"
+	{
+		"chi"		"感染乐趣"
+		"en"		"Fun of Infecting"
+	}
+
+	"TASK_HELP4"
+	{
+		"chi"		"感染 15 名人类"
+		"en"		"Infect 15 Player"
+	}
+
+	"TASK_NAME5"
+	{
+		"chi"		"枪械测验 1"
+		"en"		"Gun Test "
+	}
+
+	"TASK_HELP5"
+	{
+		"chi"		" 不同种类的枪械伤害 50 次"
+		"en"		"Damage 50 times with different weapon"
+	}
+
+	"TASK_NAME6"
+	{
+		"chi"		"合成之道"
+		"en"		"Way to Combine"
+	}
+
+	"TASK_HELP6"
+	{
+		"chi"		"合成 15 次"
+		"en"		"Successfully combine with 15 times"
+	}
+
+	"TASK_NAME7"
+	{
+		"chi"		"物品大师"
+		"en"		"Item Master "
+	}
+
+	"TASK_HELP7"
+	{
+		"chi"		"获得物品 30 次"
+		"en"		"Obtain item with 30 times"
+	}
+
+	"TASK_NAME8"
+	{
+		"chi"		"枪械培训 1"
+		"en"		"Gun Training 1"
+	}
+
+	"TASK_HELP8"
+	{
+		"chi"		" \n步枪伤害 100次\n步枪击杀10次"
+		"en"		" \nDamage 100 times with rifle\nKill 10 zombie with rifle"
+	}
+
+	"TASK_NAME9"
+	{
+		"chi"		"对抗G-Virus"
+		"en"		"Anti-G-virus"
+	}
+
+	"TASK_HELP9"
+	{
+		"chi"		" \n伤害G-virus 150 次\n击杀G-virus 5次"
+		"en"		" \nDamage 150 times to g-virus\n Defeat G-virus 5 times"
+	}
+
+	"TASK_NAME10"
+	{
+		"chi"		"枪械测验 2"
+		"en"		"Gun Test 2"
+	}
+
+	"TASK_HELP10"
+	{
+		"chi"		"用不同种类的枪械击杀僵尸20只"
+		"en"		"Kill Zombie 20 times with different weapon respectively"
+	}
+
+	"TASK_NAME11"
+	{
+		"chi"		"进阶枪械培训"
+		"en"		"Advance Gun Training"
+	}
+
+	"TASK_HELP11"
+	{
+		"chi"		" \n冲锋枪 狙击枪 每种伤害200次\n冲锋枪 狙击枪 击杀僵尸20次"
+		"en"		" \nDamage Zombie 50 times with SMG & Sniper\n Kill Zombie 20 times with SMG & Sniper"
+	}
+
+	"TASK_NAME12"
+	{
+		"chi"		"副王克星"
+		"en"		"Sub Boss slayer"
+	}
+
+	"TASK_HELP12"
+	{
+		"chi"		" \n伤害副王 500次\n击杀 30 只副王 "
+		"en"		" \nDamage Sub boss 50 times\nDefeat Sub boss 30 times"
+	}
+
+	"TASK_NAME13"
+	{
+		"chi"		"生存之道"
+		"en"		"Way To Survive!"
+	}
+
+	"TASK_HELP13"
+	{
+		"chi"		" \n人类身份生存 20次\n僵尸生存 20次\n总生存 60次 "
+		"en"		" \nSurvive in human and zombie 20 times respectively\nSurvive 60 times in total"
+	}
+
+	"TASK_NAME14"
+	{
+		"chi"		"Nemesis 杀手"
+		"en"		"Nemesis Killer"
+	}
+
+	"TASK_HELP14"
+	{
+		"chi"		" \n伤害Nemesis 1000次\n击杀Nemesis 50次"
+		"en"		" \nDamage Nemesis 1000 times\nDefeat Nemesis 50 times"
+	}
+
+	"TASK_NAME15"
+	{
+		"chi"		"伤害王"
+		"en"		"King of Damage "
+	}
+
+	"TASK_HELP15"
+	{
+		"chi"		" \n伤害僵尸 10000次\n伤害G-virus 3000次\n伤害 Nemesis 3000次\n伤害副王5000次 "
+		"en"		" \nDamage Zombie 10000times\nDamage G-virus 3000times\nDamage Nemesis 3000 times\n Damage SubBoss 5000 times"
+	}
+
+	"TASK_NAME16"
+	{
+		"chi"		"物品收集者"
+		"en"		"Item Collector"
+	}
+
+	"TASK_HELP16"
+	{
+		"chi"		" \n合成 50 次\n获得物品 500次"
+		"en"		" \nCombine 50times\nObtain Item 500 times"
+	}
+
+	"TASK_NAME17"
+	{
+		"chi"		"感染之王"
+		"en"		"Infect Master "
+	}
+
+	"TASK_HELP17"
+	{
+		"chi"		" \n感染人类 50 次\n僵尸生存 50次"
+		"en"		" \nInfect 50 human,Survive 50 times in zombie"
+	}
+
+	"TASK_NAME18"
+	{
+		"chi"		"进行枪械培训 2"
+		"en"		"Advance Gun Training 2"
+	}
+
+	"TASK_HELP18"
+	{
+		"chi"		" \n霰弹枪 重机 伤害 1000次\n霰弹枪 重机 击杀30次"
+		"en"		" \nDamage 1000 times with Machine gun and shortgun\nKill 30 zombie with machine gun and shortgun"
+	}
+
+	"TASK_NAME19"
+	{
+		"chi"		"手枪王"
+		"en"		"King of pistol"
+	}
+
+	"TASK_HELP19"
+	{
+		"chi"		" \n手枪伤害 800 次\n手枪击杀 50 次"
+		"en"		" \nDamage 800 times with pistol\nKill Zombie 50 times with pistol"
+	}
+
+	"TASK_NAME20"
+	{
+		"chi"		"全王精通"
+		"en"		"Boss Clear"
+	}
+
+	"TASK_HELP20"
+	{
+		"chi"		" \n击杀Nemesis 50次\n击杀G-virus 50次\n击杀副王 50次"
+		"en"		" \nDefeat Nemesis 50 times\nDefeat G-virus 50 times\n Defeat Sub-boss 50 times"
+	}
+
+	"TASK_NAME21"
+	{
+		"chi"		"打击计划"
+		"en"		"Damage"
+	}
+
+	"TASK_HELP21"
+	{
+		"chi"		" \n伤害僵尸 500 次\n击杀僵尸 20次"
+		"en"		" \nDamage Zombie with 500 times\nKill 20 Zombie"
+	}
+
+	"TASK_NAME22"
+	{
+		"chi"		"生存"
+		"en"		"Survive"
+	}
+
+	"TASK_HELP22"
+	{
+		"chi"		" \n游玩 30 场\n击杀僵尸 20次 "
+		"en"		" \nPlay 30 Round\nKill 20 Zombie"
+	}
+
+	"TASK_NAME23"
+	{
+		"chi"		"打击计划-Nemesis"
+		"en"		"Damage-Nemesis"
+	}
+
+	"TASK_HELP23"
+	{
+		"chi"		"伤害Nemesis 500 次"
+		"en"		"Damage Nemesis with 500 times"
+	}
+
+	"TASK_NAME24"
+	{
+		"chi"		"打击计划-G-virus"
+		"en"		"Damage-G-virus"
+	}
+
+	"TASK_HELP24"
+	{
+		"chi"		"伤害G-virus 500 次"
+		"en"		"Damage G-virus with 500 times"
+	}
+
+	"TASK_NAME25"
+	{
+		"chi"		"打击计划-副王"
+		"en"		"Damage-SubBoss"
+	}
+
+	"TASK_HELP25"
+	{
+		"chi"		"伤害副王 500 次"
+		"en"		"Damage Sub-Boss with 500 times"
+	}
+
+	"TASK_NAME26"
+	{
+		"chi"		"[VIP]打击计划"
+		"en"		"[VIP]Damage"
+	}
+
+	"TASK_HELP26"
+	{
+		"chi"		" \n伤害僵尸 500 次\n击杀僵尸 20次"
+		"en"		" \nDamage Zombie with 500 times\nKill 20 Zombie"
+	}
+
+	"TASK_NAME27"
+	{
+		"chi"		"[VIP]生存"
+		"en"		"[VIP]Survive"
+	}
+
+	"TASK_HELP27"
+	{
+		"chi"		" \n游玩 30 场\n击杀僵尸 20次 "
+		"en"		" \nPlay 30 Round\nKill 20 Zombie"
+	}
+
+	"TASK_NAME28"
+	{
+		"chi"		"[限时]手枪战"
+		"en"		"[VIP]Battle In Pistol"
+	}
+
+	"TASK_HELP28"
+	{
+		"chi"		"手枪伤害 400次 "
+		"en"		"Damage 400 times with pistol"
+	}
+
+	"TASK_PROGRESS1"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已击杀 {1} 只丧尸，还剩余 {2} 只丧尸"
+		"en"			"Killed {1} Zombie , {2} Left"
+	}
+
+	"TASK_PROGRESS2"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已打击 {1} 次丧尸，还剩余 {2} 次丧尸"
+		"en"			"Killed Zombie {1} times , {2} Left"
+	}
+
+	"TASK_PROGRESS3"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已生存{1} 回合，还剩余 {2} 次"
+		"en"			"Survive {1} times , {2} Left"
+	}
+
+	"TASK_PROGRESS4"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已生存{1} 回合，还剩余 {2} 次"
+		"en"			"Survive {1} times , {2} Left"
+	}
+
+	"TASK_PROGRESS5"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已生存{1} 回合，还剩余 {2} 次"
+		"en"			"Survive {1} times , {2} Left"
+	}
+
+	"TASK_PROGRESS6"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已感染{1} 个，还剩余 {2} 次"
+		"en"			"Infected {1} times , {2} Left"
+	}
+
+	"TASK_PROGRESS7"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已击杀 {1} 只副王，还剩余 {2} 只"
+		"en"			"Killed {1} Sub-Boss , {2} Left"
+	}
+
+	"TASK_PROGRESS8"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已击杀 {1} 只Nemesis，还剩余 {2} 只"
+		"en"			"Killed {1} Nemesis , {2} Left"
+	}
+
+	"TASK_PROGRESS9"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已击杀 {1} 只G-virus，还剩余 {2} 只"
+		"en"			"Killed {1} G-virus , {2} Left"
+	}
+
+	"TASK_PROGRESS10"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已击杀 {1} 只FireBoss，还剩余 {2} 只"
+		"en"			"Killed {1} Fireboss , {2} Left"
+	}
+
+	"TASK_PROGRESS11"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已打击 {1} 次副王，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} Sub-boss times , {2} Left"
+	}
+
+	"TASK_PROGRESS12"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已打击 {1} 次Nemesis，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} Nemesis times , {2} Left"
+	}
+
+	"TASK_PROGRESS13"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已打击 {1} 次G-virus，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} G-virus times , {2} Left"
+	}
+
+	"TASK_PROGRESS14"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已打击 {1} 次Fireboss，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} Fireboss times , {2} Left"
+	}
+
+	"TASK_PROGRESS15"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用步枪打击 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with rifle , {2} Left"
+	}
+
+	"TASK_PROGRESS16"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用霰弹枪打击 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with shortgun , {2} Left"
+	}
+
+	"TASK_PROGRESS17"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用冲锋枪打击 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with SMG , {2} Left"
+	}
+
+	"TASK_PROGRESS18"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用重机打击 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with Machine gun , {2} Left"
+	}
+
+	"TASK_PROGRESS19"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用狙击枪打击 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with Sniper  , {2} Left"
+	}
+
+	"TASK_PROGRESS20"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用手枪打击 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with pistol  , {2} Left"
+	}
+
+	"TASK_PROGRESS21"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用步枪击杀 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with rifle , {2} Left"
+	}
+
+	"TASK_PROGRESS22"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用霰弹枪击杀 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with shortgun , {2} Left"
+	}
+
+	"TASK_PROGRESS23"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用冲锋枪击杀 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with SMG , {2} Left"
+	}
+
+	"TASK_PROGRESS24"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用重机击杀 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with Machine gun , {2} Left"
+	}
+
+	"TASK_PROGRESS25"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用狙击枪击杀 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with Sniper  , {2} Left"
+	}
+
+	"TASK_PROGRESS26"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用手枪击杀 {1} 次，还剩余 {2} 次"
+		"en"			"Killed Zombie {1} times with pistol  , {2} Left"
+	}
+
+	"TASK_PROGRESS27"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已用成功合成{1} 次，还剩余 {2} 次"
+		"en"			"Successfully combine with {1} times  , {2} Left"
+	}
+
+	"TASK_PROGRESS28"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"chi"			"已获得道具{1} 次，还剩余 {2} 次"
+		"en"			"Successfully obtain item with {1} times with pistol  , {2} Left"
+	}
+
+	// ==============================================================
+	//
+	// 	Other
+	//
+	// ==============================================================
+
+	"Config reload"
+	{
+		"en"			"Syntax: zp_reloadconfig <file alias1> [file alias2] ... - Reloads a config file."
+	}
+
+	"Config reload commands"
+	{
+		"en"			"Related command(s): zp_config_reloadall"
+	}
+
+	"Config reload commands aliases"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"			"File Aliases:\n* \"{1}\"\n* \"{2}\"\n* \"{3}\"\n* \"{4}\"\n* \"{5}\""
+	}
+
+	"Config reload invalid"
+	{
+		"#format"		"{1:s}"
+		"en"			"Invalid file alias: \"{1}\""
+	}
+
+	"Config reload not load"
+	{
+		"#format"		"{1:s}"
+		"en"			"Config file \"{1}\" failed to load. (Either disabled or invalid file content.)"
+	}
+
+	"Config reload begin"
+	{
+		"en"			"Reloading all Zombie Plague config files...\n------------------------------------------------"
+	}
+
+	"Config reload finish"
+	{
+		"#format"		"{1:s}"
+		"en"			"\"{1}\" - Successful."
+	}
+
+	"Config reload falied"
+	{
+		"#format"		"{1:s}"
+		"en"			"\"{1}\" - Failed. (Either disabled or invalid file content.)"
+	}
+	// ======================
+	//
+	//	Upgrade
+	//
+	//=======================
+
+	"MainUpgrade"
+	{
+		"en"			"Upgrade Menu"
+		"chi"			"强化清单"
+	}	
+
+	"Upgrade_Human"
+	{
+		"en"			"Upgrade: Model"
+		"chi"			"人物强化"
+	}
+	"Upgrade_Human_B"
+	{
+		"en"			"Upgrade Menu: Model"
+		"chi"			"人物强化清单"
+	}
+	"Upgrade_Human_I"
+	{
+		"en"			"Upgrade Menu: Item"
+		"chi"			"物品清单"
+	}
+	"Upgrade_Human_Model"
+	{
+		"#format"		"{1:t}, {2:t}, {3:d}, {4:t}"
+		"en"			"Model: {1}\nSkill: {2} | Level: {3}\nEffect: {4}"
+		"chi"			"人物: {1}\n技能: {2} | 等级: {3}\n效果: {4}"
+	}
+	"Upgrade_Human_Item"
+	{
+		"#format"		"{1:t}"
+		"en"			"Item: {1}"
+		"chi"			"物品: {1}"
+	}	
+	"Upgrade_Human_Confirm"
+	{
+		"#format"		"{1:d}, {2:d}"
+		"en"			"Confirm [Player Available: {1}/{2}]"
+		"chi"			"确定 [可强化人物: {1}/{2}]"
+	}	
+
+	"Upgrade_Human_GIVESKILL"
+	{
+		"#format"		"{1:t}, {2:t}"
+		"en"			"{orchid}恭喜{default} 你的人物{red}{1}{default}获得了{red}{2}"
+	}
+	
+	"Upgrade_Human_UPSKILL"
+	{
+		"#format"		"{1:t}, {2:t}, {3:d}"
+		"en"			"{orchid}恭喜{default} 你的人物{red}{1}{default}技能 {red}{2}{default} 己到达Lv {red}{3}"
+	}	
+	"Upgrade_Human_UPFAILED"
+	{
+		"#format"		"{1:t}, {2:t}"
+		"en"			"{orchid}抱歉{default} 你的人物{red}{1}{default}技能 {red}{2}{default} 强化失败"
+	}
+
+	"Upgrade_Skill_1"
+	{
+		"en"			"Health ++"
+		"chi"			"血量增加"
+	}
+	"Upgrade_Skill_1b"
+	{
+		"#format"		"{1:d}"
+		"en"			"Increase health by {1} points"
+		"chi"			"增加 {1} 点血量"
+	}
+
+	"Upgrade_Skill_2"
+	{
+		"en"			"Atk ++"
+		"chi"			"伤害增加"
+	}
+	"Upgrade_Skill_2b"
+	{
+		"#format"		"{1:d}"
+		"en"			"Increase Damage by {1} precent"
+		"chi"			"增加 {1} 百份比的伤害"
+	}
+
+	"Upgrade_Skill_3"
+	{
+		"en"			"Speed ++"
+		"chi"			"速度增加"
+	}
+	"Upgrade_Skill_3b"
+	{
+		"#format"		"{1:d}"
+		"en"			"Increase Speed by {1} precent"
+		"chi"			"增加 {1} 百份比的速度"
+	}
+
+	"Upgrade_Skill_4"
+	{
+		"en"			"Gravity --"
+		"chi"			"重力降低"
+	}
+	"Upgrade_Skill_4b"
+	{
+		"#format"		"{1:d}"
+		"en"			"Decrease Gravity by {1} precent"
+		"chi"			"降低 {1} 百份比的重力"
+	}
+	"Gun_Shift_A"
+	{
+		"en"			"Shift: Weapon"
+		"chi"			"枪械等级转移"
+	}
+	"Gun_Shift_B"
+	{
+		"en"			"Shift: Setting"
+		"chi"			"转移设定"
+	}
+	"Gun_Shift_C"
+	{
+		"en"			"Set Weapon (to shift)"
+		"chi"			"设定枪械 (转移对象)"
+	}
+	"Gun_Shift_Weapon"
+	{
+		"#format"		"{1:s}, {2:d}, {3:2.1f},{4:s}, {5:d}"
+		"en"			"Weapon(be Shifted): {1}\nWeaponLv: {2} | WeaponXp: {3} \nWeapon(To Shift): {4}\nFees: {5} Sp"
+		"chi"			"原枪械: {1} \n枪械等级: {2} | 枪械经验: {3}\n转移到: {4}\n费用: {5} Sp"
+	}
+	"Gun_Shift_GO"
+	{
+		"en"			"Shift"
+		"chi"			"转移"
+	}
+	// ======================
+	//
+	//	Mining
+	//
+	//=======================
+
+	"Menu_Mail"
+	{
+		"en"			"Gift"
+		"chi"			"奖励"
+	}
+
+	"Mail_Get_SP"
+	{
+		"#format"		"{1:d}"
+		"en" 			"Gift: {1} | Quantity: {2}"
+		"chi" 			"奖励: SP | 数量: {1}"
+	}
+	"Mail_Get_item"
+	{
+		"#format"		"{1:t}, {2:d}"
+		"en" 			"Gift: {1} | Quantity: {2}"
+		"chi" 			"奖励: {1} | 数量: {2}"
+	}
+	"Mail_Get_Player"
+	{
+		"#format"		"{1:t}, {2:d}"
+		"en" 			"Gift: {1} | {2} Days"
+		"chi" 			"奖励: {1} | 天数: {2}"
+	}
+	"Mail_Get_Weapon"
+	{
+		"#format"		"{1:t}, {2:d}"
+		"en" 			"Gift: {1} | {2} Days"
+		"chi" 			"奖励: {1} | 天数: {2}"
+	}
+
+	// ======================
+	//
+	//	Timer
+	//
+	//=======================
+
+	"TIMER_REWARD"
+	{
+		"en" 		"你已连续签到了 7 天，将会获得奖励和 2 活跃度"
+	}
+
+	"TIMER_REWARD1"
+	{
+		"en" 		"你今天的运气极佳，可得到稀有物品"
+	}
+
+	"TIMER_REWARD2"
+	{
+		"en" 		"你今天的运气不错，可得到高级物品"
+	}
+
+	"TIMER_REWARD3"
+	{
+		"en" 		"今天的运气一般，可得到普通物品"
+	}
+
+	"TIMER_REWARD_ITEM"
+	{
+		"#format"		"{1:t}, {2:i}"
+		"en" 		"你获得了 {1} x {2}，请继续努力签到"
+	}
+
+	"TIMER_REWARD_SP"
+	{
+		"#format"		"{1:i}"
+		"en" 		"你获得了 {1} SP，请继续努力签到"
+	}
+
+	"TIMER_REWARD_XP"
+	{
+		"#format"		"{1:i}"
+		"en" 		"你获得了 {1} 经验，请继续努力签到"
+	}
+
+	"Timer Action"
+	{
+		"en"			"今天成功签到，得到了 1 活跃度"
+	}
+
+	"Timer Action2"
+	{
+		"en"			"你今天已经签到了"
+	}
+
+	"TIMER_REWARD_FAIL"
+	{
+		"en"			"签到还没有 7 天，无法领取奖励"
+	}
+
+}
